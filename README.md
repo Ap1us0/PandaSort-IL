@@ -4,6 +4,18 @@
 
 [结题总报告](docs/final_report.md) · [三帧历史与前缀 DAgger 报告](docs/place_sorting_history_report.md) · [域随机化、单因素消融与在线 RL 报告](docs/place_sorting_dr_rl_report.md) · [源码调研](docs/open_source_review.md) · [复用来源哈希](docs/local-source-sha256.json)
 
+## 演示效果（MuJoCo 物理仿真回放）
+
+所有演示均由真实策略输出驱动 MuJoCo 接触与摩擦物理（无物体绑定约束），GIF 为原视频 1.2×–2× 加速预览，下方附原速 20 fps 高清 MP4 链接：
+
+| 三物体同桌分拣（名义条件 3/3 全对） | 60% 低摩擦极限分拣救回（域随机化 3/3 全对） |
+| :---: | :---: |
+| ![名义三物体分拣](docs/assets/demo_sorting_nominal.gif)<br>[高清原速 MP4](results/place_sorting_dr/videos/dr_nominal_seed_0_scene_1567002_3of3.mp4)（原基线同场景失败 → DR 策略 3/3 全对） | ![60%低摩擦三物体分拣](docs/assets/demo_sorting_friction60.gif)<br>[高清原速 MP4](results/place_sorting_dr/videos/dr_friction_60_seed_1_scene_1567000_3of3.mp4)（单域策略同场景失败 → DR 策略零掉落救回） |
+
+| 随机目标低摩擦严格抓放（70% 摩擦 / 150 g） | 基础抓取抬升悬停 1 秒（BC 正则 SAC） |
+| :---: | :---: |
+| ![低摩擦随机目标抓放](docs/assets/demo_pick_place_strict.gif)<br>[高清原速 MP4](results/place_boundary/videos/strict_success_seed_0_1510000.mp4)（夹持触桌 + 撤离稳定 1 秒，末态误差 2.17 mm） | ![基础抓取抬升](docs/assets/demo_lift_bc_sac.gif)<br>[高清原速 MP4](results/sac_ablation/videos/bc_regularized_step_02000_scene_900000.mp4)（双指夹持抬升 ≥ 5 cm 并稳定保持 1 秒） |
+
 ## 核心成果一览
 
 | 任务阶段 | 关键指标 | 说明 |
