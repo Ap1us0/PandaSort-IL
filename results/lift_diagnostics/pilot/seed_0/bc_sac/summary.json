@@ -1,0 +1,98 @@
+{
+  "policy": {
+    "episodes": 100,
+    "successes": 0,
+    "lifted": 100,
+    "mean_max_hold_s": 0.27234,
+    "mean_post_lift_xyz_rms": 0.3771632474660873,
+    "failure_reasons": {
+      "unstable_hold": 100
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 2,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 598,
+      "breaks_angular_speed": 2
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": 0.0,
+      "ticks_no_bilateral": 0.00742012892297558,
+      "ticks_table_contact": 0.0,
+      "ticks_linear_speed": 0.9136827741965841,
+      "ticks_angular_speed": 0.0031854326448030866
+    }
+  },
+  "policy_paired": {
+    "episodes": 25,
+    "successes": 0,
+    "lifted": 25,
+    "mean_max_hold_s": 0.25976000000000005,
+    "mean_post_lift_xyz_rms": 0.3751998019218445,
+    "failure_reasons": {
+      "unstable_hold": 25
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 1,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 183,
+      "breaks_angular_speed": 1
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": 0.0,
+      "ticks_no_bilateral": 0.0072910190470807665,
+      "ticks_table_contact": 0.0,
+      "ticks_linear_speed": 0.9094180372652084,
+      "ticks_angular_speed": 0.0033534919648071744
+    }
+  },
+  "freeze_xyz": {
+    "episodes": 25,
+    "successes": 22,
+    "lifted": 25,
+    "mean_max_hold_s": 0.9136799999999999,
+    "mean_post_lift_xyz_rms": 0.41191027998924257,
+    "failure_reasons": {
+      "unstable_hold": 3
+    },
+    "hold_breaks": {
+      "breaks_low_height": 3,
+      "breaks_no_bilateral": 4,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 3
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": 0.3318890326937145,
+      "ticks_no_bilateral": 0.0003376287209498621,
+      "ticks_table_contact": 0.0,
+      "ticks_linear_speed": 0.023971639187440212,
+      "ticks_angular_speed": 0.0002813572674582184
+    }
+  },
+  "freeze_close": {
+    "episodes": 25,
+    "successes": 22,
+    "lifted": 25,
+    "mean_max_hold_s": 0.91384,
+    "mean_post_lift_xyz_rms": 0.4116558122634888,
+    "failure_reasons": {
+      "unstable_hold": 3
+    },
+    "hold_breaks": {
+      "breaks_low_height": 3,
+      "breaks_no_bilateral": 4,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 3
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": 0.3317764897867312,
+      "ticks_no_bilateral": 0.0002813572674582184,
+      "ticks_table_contact": 0.0,
+      "ticks_linear_speed": 0.024027910640931856,
+      "ticks_angular_speed": 0.00022508581396657476
+    }
+  }
+}

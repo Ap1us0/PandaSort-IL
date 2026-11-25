@@ -1,0 +1,16 @@
+{
+  "method": "force_in_transport",
+  "seed": 2,
+  "checkpoint_sha256": "59ee2953723a2d21e4e3ed5d80c19daa9e7ab618b4667e43905c9f713d92d181",
+  "scenes": 30,
+  "all_sorted": 6,
+  "items": 90,
+  "sorted_items": 54,
+  "wrong_color_items": 1,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 14,
+    "brick": 20,
+    "cylinder": 20
+  }
+}

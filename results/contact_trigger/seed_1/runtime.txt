@@ -1,0 +1,5 @@
+muJoCo 3.16.0
+gymnasium 1.2.3
+torch 2.14.1+cpu
+SB3 2.7.1
+torch_threads 1

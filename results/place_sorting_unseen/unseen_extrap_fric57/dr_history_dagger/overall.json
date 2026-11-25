@@ -1,0 +1,15 @@
+{
+  "family": "dr_history_dagger",
+  "condition": "unseen_extrap_fric57",
+  "scenes": 90,
+  "all_sorted": 19,
+  "all_sorted_pct": 21.1,
+  "per_seed": "6/6/7",
+  "sorted_items": 188,
+  "sorted_items_pct": 69.6,
+  "cube_sorted": 24,
+  "cube_lifted": 86,
+  "cube_drops": 47,
+  "brick_sorted": 81,
+  "cylinder_sorted": 83
+}

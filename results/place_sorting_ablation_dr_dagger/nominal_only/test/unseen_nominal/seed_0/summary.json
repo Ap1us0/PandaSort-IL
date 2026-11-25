@@ -1,0 +1,14 @@
+{
+  "arm": "nominal_only",
+  "condition": "unseen_nominal",
+  "seed": 0,
+  "checkpoint_sha256": "abf64e49ad37ed1bd66c9ee8d5fdb333a3998b3d4076482441efa4a52eddb2d0",
+  "scenes": 30,
+  "all_sorted": 17,
+  "sorted_items": 77,
+  "cube_sorted": 20,
+  "cube_lifted": 30,
+  "cube_drops": 0,
+  "brick_sorted": 29,
+  "cylinder_sorted": 28
+}

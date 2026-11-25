@@ -1,0 +1,29 @@
+test_physical_success_and_cube_qpos_only_moves_in_physics (test_env.GraspTests) ... ok
+test_registration_and_gymnasium_contract (test_env.GraspTests) ... D:\studay\AAAA\armlab\强化学习自主抓取\.deps\gymnasium\utils\env_checker.py:311: UserWarning: WARN: A Box observation space minimum value is -infinity. This is probably too low.
+  logger.warn(
+D:\studay\AAAA\armlab\强化学习自主抓取\.deps\gymnasium\utils\env_checker.py:315: UserWarning: WARN: A Box observation space maximum value is infinity. This is probably too high.
+  logger.warn(
+ok
+test_reward_and_success_shortcuts (test_env.GraspTests) ... ok
+test_seeded_reset_and_action_bounds (test_env.GraspTests) ... ok
+test_exact_demonstration_budget_marks_partial_episode (test_physics_shift.PhysicsShiftTest) ... ok
+test_mass_and_inertia_scale_one_body (test_physics_shift.PhysicsShiftTest) ... ok
+test_sliding_changes_in_finger_contacts_and_not_table_pair (test_physics_shift.PhysicsShiftTest) ... ok
+test_equal_source_samples_without_condition_input (test_place_mixed.MixedPlacementTest) ... ok
+test_release_failure_is_distinct_from_transport_drop (test_place_robustness.PlacementRobustnessTest) ... ok
+test_teacher_has_no_false_transport_drop_or_early_open (test_place_robustness.PlacementRobustnessTest) ... ok
+test_probes_only_change_intended_action_after_arrival (test_place_touchdown.TouchdownStudyTest) ... ok
+test_verified_teacher_waits_for_gripped_touchdown (test_place_touchdown.TouchdownStudyTest) ... ok
+test_outcome_and_placement_sequence_are_scored_independently (test_place_touchdown_rescore.OutcomeEvaluationTest) ... ok
+test_expansion_preserves_lift_policy_outputs (test_placement.PlacementTest) ... ok
+test_seeded_target_observation_and_marker (test_placement.PlacementTest) ... ok
+test_teacher_places_and_early_release_is_not_success (test_placement.PlacementTest) ... ok
+test_demonstration_penalty_updates_mean_and_leaves_variance_head (test_sac_ablation.AblationTest) ... ok
+test_reduced_exploration_changes_only_rollout_deviation (test_sac_ablation.AblationTest) ... ok
+test_warming_critic_preserves_actor_and_temperature (test_sac_ablation.AblationTest) ... ok
+test_actor_output_matches_and_critics_stay_fresh (test_transfer.TransferTest) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 16.459s
+
+OK

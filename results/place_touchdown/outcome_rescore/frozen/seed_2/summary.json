@@ -1,0 +1,8 @@
+{
+  "profile": "frozen",
+  "seed": 2,
+  "episodes": 100,
+  "strict_successes": 64,
+  "stable_placement_successes": 94,
+  "stable_without_gripped_touchdown": 30
+}

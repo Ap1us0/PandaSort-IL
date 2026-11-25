@@ -1,0 +1,22 @@
+{
+  "method": "frozen",
+  "seed": 2,
+  "checkpoint": "results/place_transport_anchor/seed_2/model.pt",
+  "checkpoint_sha256": "7e1122713ed3b99a8a82f5b2757fbd8e2247c0b0a4b57c03136d23abc9fad2d4",
+  "shape": "brick",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": false,
+  "episodes": 36,
+  "stable": 9,
+  "strict": 8,
+  "gripped": 36,
+  "lifted": 20,
+  "transported": 9,
+  "transport_drops": 11,
+  "failure_stages": {
+    "lift": 16,
+    "transport": 11
+  },
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "tag": "nominal_3of3",
+    "condition": "nominal",
+    "seed": 0,
+    "scenario_seed": 1567002,
+    "path": "results/place_sorting_dr/videos/dr_nominal_seed_0_scene_1567002_3of3.mp4",
+    "frames": 615,
+    "seconds": 30.75,
+    "sorted_items": 3,
+    "all_sorted": true,
+    "items": [
+      {
+        "shape": "cube",
+        "attempt_steps": 160,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      },
+      {
+        "shape": "brick",
+        "attempt_steps": 149,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      },
+      {
+        "shape": "cylinder",
+        "attempt_steps": 150,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      }
+    ]
+  },
+  {
+    "tag": "friction60_rescued_3of3",
+    "condition": "friction_60",
+    "seed": 1,
+    "scenario_seed": 1567000,
+    "path": "results/place_sorting_dr/videos/dr_friction_60_seed_1_scene_1567000_3of3.mp4",
+    "frames": 619,
+    "seconds": 30.95,
+    "sorted_items": 3,
+    "all_sorted": true,
+    "items": [
+      {
+        "shape": "cube",
+        "attempt_steps": 158,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      },
+      {
+        "shape": "brick",
+        "attempt_steps": 155,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      },
+      {
+        "shape": "cylinder",
+        "attempt_steps": 150,
+        "stable_in_target": true,
+        "sorted": true,
+        "failure_stage": "success"
+      }
+    ]
+  }
+]

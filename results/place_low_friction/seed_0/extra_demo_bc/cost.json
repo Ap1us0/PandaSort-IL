@@ -1,0 +1,23 @@
+{
+  "new_demo_steps": 6000,
+  "new_online_steps": 0,
+  "new_demo_collection_s": 20.917471900000237,
+  "selected_checkpoint": "results/place_low_friction/seed_0/extra_demo_bc/model.pt",
+  "optimizer_updates": 1500,
+  "training_s": 7.353534700000637,
+  "validation_s": 34.64786429999913,
+  "datasets": [
+    "results/pick_place/seed_0/expert.npz",
+    "results/place_robustness/adapt/seed_0/friction_50/demonstrations/expert.npz",
+    "results/place_robustness/adapt/seed_0/mass_250/demonstrations/expert.npz",
+    "results/place_touchdown/training/seed_0/demonstrations/expert.npz",
+    "results/place_low_friction/seed_0/demos/shared/expert.npz",
+    "results/place_low_friction/seed_0/demos/bc_only/expert.npz"
+  ],
+  "selection": "fixed final update",
+  "method": "extra_demo_bc",
+  "training_seed": 0,
+  "budget_ceiling": 6000,
+  "initial_sha256": "0354b6c0cff0393a8092b9ad13275036bfd66dab5a69259a9fe9bd58de13699a",
+  "checkpoint_sha256": "3131d7259cf9088de818137e760a5ba75af4277fd0b141e40780f4bd81987cb1"
+}

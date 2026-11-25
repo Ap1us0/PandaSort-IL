@@ -1,0 +1,16 @@
+{
+  "method": "frozen",
+  "seed": 1,
+  "checkpoint_sha256": "9d8db3fe224a13513469978138983dae50c711e3e36255a6c07bc8d1c0ef806e",
+  "scenes": 30,
+  "all_sorted": 10,
+  "items": 90,
+  "sorted_items": 60,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 15,
+    "brick": 21,
+    "cylinder": 24
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "seed": 2,
+  "scanned_scenes": 60,
+  "scanned_policy_failures": 14,
+  "rescued_failures": 6,
+  "collection_s": 155.8807915000002,
+  "shape_data": [
+    {
+      "shape": "cube",
+      "trajectories": 13,
+      "steps": 812,
+      "sha256": "90821df9abcf0b18a31dbacd2d69366bc6646ae452ae3701339714305a28d7d7"
+    },
+    {
+      "shape": "brick",
+      "trajectories": 11,
+      "steps": 736,
+      "sha256": "248074500a4d6d47d96e90a9dcb3b499c65d8b3d1897e0c38f2249a5570be3b2"
+    },
+    {
+      "shape": "cylinder",
+      "trajectories": 13,
+      "steps": 919,
+      "sha256": "11354cbb12f794c72dfdbc1a034eb39af157c5798a1cae9ff7b6983f1103aa9e"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "method": "edge_landing",
+  "seed": 1,
+  "checkpoint": "results/place_edge/seed_1/edge_landing/model.pt",
+  "checkpoint_sha256": "c160da160ba39337499a07924eb6c3cc2e8ab1cc0acac49d8cc9c92d99380c76",
+  "initial_sha256": "c160da160ba39337499a07924eb6c3cc2e8ab1cc0acac49d8cc9c92d99380c76",
+  "condition": "friction_70_mass_150",
+  "mass_scale": 2.0,
+  "sliding_scale": 0.7,
+  "mass_kg": 0.15,
+  "sliding_coefficient": 0.9799999999999999,
+  "episodes": 100,
+  "successes": 63,
+  "success_rate": 0.63,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.01,
+  "drops_per_lift": 0.01,
+  "mean_max_lift_m": 0.07026841230612596,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 1.2238395763953418,
+  "failure_reasons": {
+    "no_gripped_touchdown_at_target": 37
+  },
+  "transport_rate": 1.0,
+  "release_rate": 0.63,
+  "mean_goal_error_m": 0.006442926787790258,
+  "mean_stable_placement_s": 0.63,
+  "touchdown_rate": 0.63,
+  "transport_drop_rate": 0.0,
+  "transport_drops_per_lift": 0.0,
+  "transport_grip_loss_rate": 1.0,
+  "table_at_goal_rate": 1.0,
+  "early_open_rate": 0.34,
+  "median_goal_error_m": 0.005282553034943778,
+  "failure_stages": {
+    "touchdown": 37
+  },
+  "strict_successes": 63,
+  "stable_placement_successes": 97,
+  "stable_without_gripped_touchdown": 34
+}

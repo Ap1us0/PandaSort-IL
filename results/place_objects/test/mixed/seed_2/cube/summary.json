@@ -1,0 +1,24 @@
+{
+  "method": "mixed",
+  "seed": 2,
+  "checkpoint": "results/place_objects/training/seed_2/model.pt",
+  "checkpoint_sha256": "6642cfc17782f2b883f28b51760dc2f96075412e9c004b301e9f9e88ea779bf5",
+  "shape": "cube",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": true,
+  "episodes": 36,
+  "stable": 22,
+  "strict": 12,
+  "gripped": 36,
+  "lifted": 35,
+  "transported": 26,
+  "transport_drops": 8,
+  "failure_stages": {
+    "release": 1,
+    "transport": 9,
+    "touchdown": 3,
+    "lift": 1
+  },
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

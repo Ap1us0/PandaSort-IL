@@ -1,0 +1,13 @@
+seed,condition,episodes,fail_to_success,success_to_fail
+0,nominal,100,0,1
+0,friction_50,100,0,1
+0,mass_250,100,13,0
+0,combined_moderate,100,29,4
+1,nominal,100,0,0
+1,friction_50,100,0,0
+1,mass_250,100,0,0
+1,combined_moderate,100,0,0
+2,nominal,100,0,0
+2,friction_50,100,1,0
+2,mass_250,100,5,0
+2,combined_moderate,100,29,3

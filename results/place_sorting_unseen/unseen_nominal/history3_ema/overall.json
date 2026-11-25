@@ -1,0 +1,15 @@
+{
+  "family": "history3_ema",
+  "condition": "unseen_nominal",
+  "scenes": 90,
+  "all_sorted": 58,
+  "all_sorted_pct": 64.4,
+  "per_seed": "18/22/18",
+  "sorted_items": 235,
+  "sorted_items_pct": 87.0,
+  "cube_sorted": 72,
+  "cube_lifted": 90,
+  "cube_drops": 12,
+  "brick_sorted": 88,
+  "cylinder_sorted": 75
+}

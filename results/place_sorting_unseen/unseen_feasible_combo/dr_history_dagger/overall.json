@@ -1,0 +1,15 @@
+{
+  "family": "dr_history_dagger",
+  "condition": "unseen_feasible_combo",
+  "scenes": 90,
+  "all_sorted": 58,
+  "all_sorted_pct": 64.4,
+  "per_seed": "18/21/19",
+  "sorted_items": 237,
+  "sorted_items_pct": 87.8,
+  "cube_sorted": 64,
+  "cube_lifted": 87,
+  "cube_drops": 9,
+  "brick_sorted": 84,
+  "cylinder_sorted": 89
+}

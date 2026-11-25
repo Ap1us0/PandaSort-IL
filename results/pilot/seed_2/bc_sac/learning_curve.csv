@@ -1,0 +1,7 @@
+environment_steps,training_s,episodes,successes,success_rate,bilateral_rate,lift_rate,drop_rate,drops_per_lift,mean_max_lift_m,mean_max_hold_s,mean_max_hold_among_lifted_s,mean_return,failure_reasons
+0,0.006292300000495743,12,0,0.0,1.0,0.0,0.0,,0.009961521742751464,0.0,,-1.1597502459619482,{'grasp_without_lift': 12}
+2000,13.000980700002401,12,0,0.0,0.0,0.0,0.0,,0.0,0.0,,-1.1321940563688515,{'no_bilateral_grasp': 12}
+6000,45.55376460000116,12,0,0.0,0.08333333333333333,0.0,0.0,,0.0015617831326571001,0.0,,-1.1938741586983748,"{'no_bilateral_grasp': 11, 'grasp_without_lift': 1}"
+12000,94.39763900000253,12,0,0.0,1.0,0.0,0.0,,0.00037131295513552487,0.0,,-1.4554935588017512,{'grasp_without_lift': 12}
+18000,144.2428084000021,12,0,0.0,0.75,0.0,0.0,,0.0007110935546840261,0.0,,-1.4893033636444706,"{'grasp_without_lift': 9, 'no_bilateral_grasp': 3}"
+24000,198.7059967000023,12,0,0.0,1.0,0.0,0.0,,0.005812422261724931,0.0,,-1.7970157949280186,{'grasp_without_lift': 12}

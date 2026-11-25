@@ -1,0 +1,14 @@
+{
+  "family": "v3_expert",
+  "condition": "unseen_combo_4way",
+  "scenes": 30,
+  "all_sorted": 3,
+  "all_sorted_pct": 10.0,
+  "sorted_items": 62,
+  "sorted_items_pct": 68.9,
+  "cube_sorted": 3,
+  "cube_lifted": 30,
+  "cube_drops": 16,
+  "brick_sorted": 30,
+  "cylinder_sorted": 29
+}

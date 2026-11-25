@@ -1,0 +1,13 @@
+{
+  "condition": "mass_175",
+  "seed": 1,
+  "checkpoint_sha256": "0a431889058b0d6f88cbec98813d95cc79efa6ba62c091de883e02447e33e2b7",
+  "scenes": 30,
+  "all_sorted": 13,
+  "sorted_items": 71,
+  "cube_sorted": 14,
+  "cube_lifted": 29,
+  "cube_transport_drops": 7,
+  "brick_sorted": 29,
+  "cylinder_sorted": 28
+}

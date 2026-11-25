@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episodes": 12,
+  "successful": 12,
+  "transitions": 1732,
+  "collection_s": 4.307376700000077,
+  "condition": "combined_moderate",
+  "teacher": "verified_touch",
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

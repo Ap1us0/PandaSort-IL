@@ -1,0 +1,35 @@
+{
+  "screen_seeds": [
+    1310000,
+    1310001,
+    1310002,
+    1310003,
+    1310004,
+    1310005,
+    1310006,
+    1310007,
+    1310008,
+    1310009,
+    1310010,
+    1310011
+  ],
+  "adaptation_condition": "friction_50",
+  "expert_minimum_successes_of_12": 10,
+  "each_learned_policy_max_successes_of_36": 29,
+  "evaluated_candidates_in_priority_order": [
+    {
+      "condition": "friction_75",
+      "expert": 12,
+      "bc": 36,
+      "bc_sac": 36,
+      "qualifies": false
+    },
+    {
+      "condition": "friction_50",
+      "expert": 12,
+      "bc": 27,
+      "bc_sac": 9,
+      "qualifies": true
+    }
+  ]
+}

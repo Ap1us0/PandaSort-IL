@@ -1,0 +1,15 @@
+{
+  "arm": "dr_plus_dagger",
+  "condition": "unseen_extrap_fric57",
+  "scenes": 90,
+  "all_sorted": 21,
+  "all_sorted_pct": 23.3,
+  "per_seed": "8/6/7",
+  "sorted_items": 186,
+  "sorted_items_pct": 68.9,
+  "cube_sorted": 23,
+  "cube_lifted": 86,
+  "cube_drops": 47,
+  "brick_sorted": 81,
+  "cylinder_sorted": 82
+}

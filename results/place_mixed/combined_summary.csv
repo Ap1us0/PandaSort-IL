@@ -1,0 +1,15 @@
+source,condition,seed,path,episodes,successes,bilateral_rate,lift_rate,transport_rate,touchdown_rate,release_rate,success_rate,transport_drop_rate,early_open_rate,failure_stages,median_goal_error_m
+expert,combined_full,,results/place_mixed/combined/expert/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.18174255989641708
+expert,combined_moderate,,results/place_mixed/combined/expert/combined_moderate,100,84,1.0,1.0,1.0,0.84,0.84,0.84,0.0,0.16,{'touchdown': 16},0.0016224591945185564
+mixed,combined_full,0,results/place_mixed/combined/mixed/seed_0/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.1712112237024566
+mixed,combined_moderate,0,results/place_mixed/combined/mixed/seed_0/combined_moderate,100,58,1.0,1.0,0.96,0.58,0.58,0.58,0.04,0.38,"{'touchdown': 38, 'transport': 4}",0.0022846067497917302
+mixed,combined_full,1,results/place_mixed/combined/mixed/seed_1/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.17155060213835546
+mixed,combined_moderate,1,results/place_mixed/combined/mixed/seed_1/combined_moderate,100,92,1.0,1.0,0.97,0.92,0.92,0.92,0.03,0.05,"{'transport': 3, 'touchdown': 5}",0.002174667250177028
+mixed,combined_full,2,results/place_mixed/combined/mixed/seed_2/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.17063527906309717
+mixed,combined_moderate,2,results/place_mixed/combined/mixed/seed_2/combined_moderate,100,70,1.0,1.0,0.97,0.7,0.7,0.7,0.03,0.27,"{'touchdown': 27, 'transport': 3}",0.0021189537796499334
+nominal,combined_full,0,results/place_mixed/combined/nominal/seed_0/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.16266843654939872
+nominal,combined_moderate,0,results/place_mixed/combined/nominal/seed_0/combined_moderate,100,0,1.0,0.52,0.09,0.0,0.0,0.0,0.43,0.09,"{'transport': 43, 'lift': 48, 'touchdown': 9}",0.009574200882618495
+nominal,combined_full,1,results/place_mixed/combined/nominal/seed_1/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.12493649451522365
+nominal,combined_moderate,1,results/place_mixed/combined/nominal/seed_1/combined_moderate,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.014629948679378899
+nominal,combined_full,2,results/place_mixed/combined/nominal/seed_2/combined_full,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.16575578091323823
+nominal,combined_moderate,2,results/place_mixed/combined/nominal/seed_2/combined_moderate,100,46,1.0,1.0,0.95,0.46,0.46,0.46,0.05,0.49,"{'touchdown': 49, 'transport': 5}",0.0022258638054692467

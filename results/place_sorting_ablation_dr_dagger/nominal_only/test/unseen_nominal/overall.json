@@ -1,0 +1,15 @@
+{
+  "arm": "nominal_only",
+  "condition": "unseen_nominal",
+  "scenes": 90,
+  "all_sorted": 60,
+  "all_sorted_pct": 66.7,
+  "per_seed": "17/22/21",
+  "sorted_items": 240,
+  "sorted_items_pct": 88.9,
+  "cube_sorted": 66,
+  "cube_lifted": 90,
+  "cube_drops": 0,
+  "brick_sorted": 88,
+  "cylinder_sorted": 86
+}

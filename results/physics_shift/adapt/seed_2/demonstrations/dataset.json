@@ -1,0 +1,15 @@
+{
+  "seed": 2,
+  "episodes": 92,
+  "successful": 91,
+  "transitions": 8000,
+  "collection_s": 49.163749699997425,
+  "condition": "friction_50",
+  "interaction_budget": 8000,
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

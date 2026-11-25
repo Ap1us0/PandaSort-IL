@@ -1,0 +1,13 @@
+method,seed,scenes,all_sorted,items,sorted_items,wrong_color_items,homing_failures,scenes_0_sorted,scenes_1_sorted,scenes_2_sorted,scenes_3_sorted
+binary,0,30,5,90,60,0,0,0,5,20,5
+binary,1,30,7,90,57,0,0,1,8,14,7
+binary,2,30,11,90,54,0,0,5,7,7,11
+force,0,30,5,90,56,0,0,2,5,18,5
+force,1,30,10,90,58,0,0,1,10,9,10
+force,2,30,10,90,61,2,0,1,7,12,10
+slip,0,30,8,90,59,0,0,2,5,15,8
+slip,1,30,8,90,59,0,0,1,7,14,8
+slip,2,30,9,90,58,1,0,3,5,13,9
+force_in_transport,0,30,12,90,64,0,0,0,8,10,12
+force_in_transport,1,30,10,90,59,0,0,0,11,9,10
+force_in_transport,2,30,6,90,54,1,0,3,6,15,6

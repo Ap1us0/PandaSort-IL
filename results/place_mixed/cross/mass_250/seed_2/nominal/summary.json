@@ -1,0 +1,39 @@
+{
+  "source": "mass_250",
+  "condition": "nominal",
+  "seed": 2,
+  "checkpoint": "results/place_robustness/adapt/seed_2/mass_250/model.pt",
+  "checkpoint_sha256": "0e7a7f2e5d50129a5f105a2e0b06564d548e52fb137a9857dcbfd1762dd56386",
+  "mass_scale": 1.0,
+  "sliding_scale": 1.0,
+  "mass_kg": 0.075,
+  "sliding_coefficient": 1.4,
+  "episodes": 100,
+  "successes": 94,
+  "success_rate": 0.94,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.01,
+  "drops_per_lift": 0.01,
+  "mean_max_lift_m": 0.08752702014681497,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 3.6662572743736517,
+  "failure_reasons": {
+    "not_released_at_target": 6
+  },
+  "transport_rate": 1.0,
+  "release_rate": 0.94,
+  "mean_goal_error_m": 0.0045626709490215285,
+  "mean_stable_placement_s": 0.94,
+  "touchdown_rate": 1.0,
+  "transport_drop_rate": 0.0,
+  "transport_drops_per_lift": 0.0,
+  "transport_grip_loss_rate": 0.78,
+  "table_at_goal_rate": 1.0,
+  "early_open_rate": 0.0,
+  "median_goal_error_m": 0.00334278366275897,
+  "failure_stages": {
+    "release": 6
+  }
+}

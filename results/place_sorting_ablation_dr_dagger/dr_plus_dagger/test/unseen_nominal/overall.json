@@ -1,0 +1,15 @@
+{
+  "arm": "dr_plus_dagger",
+  "condition": "unseen_nominal",
+  "scenes": 90,
+  "all_sorted": 61,
+  "all_sorted_pct": 67.8,
+  "per_seed": "20/22/19",
+  "sorted_items": 240,
+  "sorted_items_pct": 88.9,
+  "cube_sorted": 65,
+  "cube_lifted": 90,
+  "cube_drops": 0,
+  "brick_sorted": 88,
+  "cylinder_sorted": 87
+}

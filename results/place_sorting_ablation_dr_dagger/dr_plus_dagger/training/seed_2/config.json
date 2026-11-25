@@ -1,0 +1,20 @@
+{
+  "arm": "dr_plus_dagger",
+  "seed": 2,
+  "total_scenes": 120,
+  "nominal_scenes": 45,
+  "dr_scenes": 45,
+  "dagger_scenes": 30,
+  "total_updates": 8000,
+  "selected_updates": 3000,
+  "r1_sha256": "09fc6a08cfb451724a875e29a80d62273cf1f613d37649a8d1eaf9a98818022a",
+  "checkpoint_sha256": "24d249e02d97c2fc49fc627eeec1aedcb8e73c127a9936cf08aa83647ee00966",
+  "dagger_improved_over_r1": true,
+  "dagger_info": {
+    "verified_entries": 27,
+    "rescued": 5,
+    "scanned": 13,
+    "suffixes": 19,
+    "steps": 1175
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "method": "expert",
+  "seed": null,
+  "checkpoint_sha256": null,
+  "scenes": 30,
+  "all_sorted": 25,
+  "items": 90,
+  "sorted_items": 83,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 28,
+    "brick": 30,
+    "cylinder": 25
+  },
+  "cube_lifted": 30,
+  "cube_transport_drops": 1
+}

@@ -1,0 +1,9 @@
+{
+  "source": "results/contact_trigger/seed_1/bc_sac",
+  "archived_cost": {
+    "environment_steps": 24000,
+    "gradient_updates": 11744,
+    "training_s": 229.43494360000113
+  },
+  "archived_learning_curve": "results/contact_trigger/seed_1/bc_sac/learning_curve.csv"
+}

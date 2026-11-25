@@ -1,0 +1,10 @@
+seed,reference,candidate,stable_gained,stable_lost,drops_avoided,drops_added
+0,frozen,ordinary,2,0,1,0
+0,frozen,transport_anchored,2,2,1,0
+0,ordinary,transport_anchored,0,2,0,0
+1,frozen,ordinary,0,18,0,18
+1,frozen,transport_anchored,0,1,0,0
+1,ordinary,transport_anchored,18,1,18,0
+2,frozen,ordinary,4,0,2,0
+2,frozen,transport_anchored,4,2,2,0
+2,ordinary,transport_anchored,0,2,0,0

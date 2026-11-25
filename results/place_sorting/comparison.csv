@@ -1,0 +1,5 @@
+method,seed,scenes,all_sorted,items,sorted_items,wrong_color_items,homing_failures,scenes_0_sorted,scenes_1_sorted,scenes_2_sorted,scenes_3_sorted
+expert,,30,22,90,80,0,0,0,2,6,22
+mixed,0,30,5,90,47,0,0,5,8,12,5
+mixed,1,30,4,90,53,1,0,1,9,16,4
+mixed,2,30,9,90,61,0,0,0,8,13,9

@@ -1,0 +1,14 @@
+{
+  "family": "dr_history_dagger",
+  "condition": "unseen_extrap_fric57",
+  "seed": 0,
+  "checkpoint_sha256": "0f654fec3d06e78c6d7e6126694e29216ba215888427b4e98e9611b459b5a550",
+  "scenes": 30,
+  "all_sorted": 6,
+  "sorted_items": 65,
+  "cube_sorted": 7,
+  "cube_lifted": 27,
+  "cube_drops": 16,
+  "brick_sorted": 29,
+  "cylinder_sorted": 29
+}

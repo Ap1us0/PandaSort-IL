@@ -1,0 +1,15 @@
+{
+  "seed": 1,
+  "episodes": 12,
+  "successful": 12,
+  "transitions": 1745,
+  "collection_s": 12.418424100000266,
+  "condition": "mass_250",
+  "teacher_speed": 1.0,
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "seed": 1,
+  "scenes": 24,
+  "expert_all_sorted": 23,
+  "expert_action_steps": 10431,
+  "homing_action_steps": 3215,
+  "collection_s": 69.18906609999976,
+  "action_names": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper",
+    "dyaw"
+  ],
+  "obs_size": 64,
+  "shape_data": [
+    {
+      "shape": "cube",
+      "attempts": 24,
+      "successful": 23,
+      "expert_action_steps": 3354,
+      "sha256": "f976862486424c6a1aedfa8bfd149956ef130d34d4173f5451c76327c6566237"
+    },
+    {
+      "shape": "brick",
+      "attempts": 24,
+      "successful": 24,
+      "expert_action_steps": 3686,
+      "sha256": "7ba1d0e6fb642d0e27bac81cad447462ee52da6a7d1634270ea00208944977a9"
+    },
+    {
+      "shape": "cylinder",
+      "attempts": 24,
+      "successful": 24,
+      "expert_action_steps": 3391,
+      "sha256": "4a175c6110ce34228ed5f0d1c9e76bc736dcd141dc5da4e9b8fb6f5348fc6271"
+    }
+  ]
+}

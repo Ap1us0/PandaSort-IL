@@ -1,0 +1,16 @@
+{
+  "method": "brick_long_axis_teacher",
+  "shape": "brick",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": true,
+  "episodes": 16,
+  "stable": 16,
+  "strict": 16,
+  "gripped": 16,
+  "lifted": 16,
+  "transported": 16,
+  "transport_drops": 0,
+  "failure_stages": {},
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

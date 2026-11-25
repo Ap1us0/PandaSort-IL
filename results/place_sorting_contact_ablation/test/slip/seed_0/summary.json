@@ -1,0 +1,16 @@
+{
+  "method": "slip",
+  "seed": 0,
+  "checkpoint_sha256": "60d96b944e11465534b1b5122eeefe9989065ee3fde43a217bf9008e183e8c25",
+  "scenes": 30,
+  "all_sorted": 10,
+  "items": 90,
+  "sorted_items": 61,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 13,
+    "brick": 23,
+    "cylinder": 25
+  }
+}

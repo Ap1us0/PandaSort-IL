@@ -1,0 +1,42 @@
+{
+  "screen_seeds": [
+    1410000,
+    1410001,
+    1410002,
+    1410003,
+    1410004,
+    1410005,
+    1410006,
+    1410007,
+    1410008,
+    1410009,
+    1410010,
+    1410011
+  ],
+  "expert_minimum": 10,
+  "frozen_maximum": 30,
+  "cases": [
+    {
+      "condition": "friction_50",
+      "frozen_successes_of_36": 12,
+      "expert_successes_of_12": 12,
+      "expert_speed": 1.0,
+      "frozen_failures_by_stage": {
+        "touchdown": 19,
+        "lift": 5
+      },
+      "adapt": true
+    },
+    {
+      "condition": "mass_250",
+      "frozen_successes_of_36": 11,
+      "expert_successes_of_12": 11,
+      "expert_speed": 1.0,
+      "frozen_failures_by_stage": {
+        "lift": 23,
+        "touchdown": 2
+      },
+      "adapt": true
+    }
+  ]
+}

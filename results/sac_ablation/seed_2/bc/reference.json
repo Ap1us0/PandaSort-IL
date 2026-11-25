@@ -1,0 +1,10 @@
+{
+  "source": "results/contact_trigger/seed_2/bc",
+  "archived_cost": {
+    "environment_steps": 14176,
+    "successful_demos": 36,
+    "optimizer_updates": 8000,
+    "training_s": 29.44413230000282
+  },
+  "archived_learning_curve": "results/contact_trigger/seed_2/bc/learning_curve.csv"
+}

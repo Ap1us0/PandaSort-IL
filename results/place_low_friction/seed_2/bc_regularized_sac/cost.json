@@ -1,0 +1,29 @@
+{
+  "new_demo_steps": 2000,
+  "new_online_steps": 4000,
+  "new_demo_collection_s": 7.022969300000113,
+  "selected_checkpoint": "results/place_low_friction/seed_2/bc_regularized_sac/model.zip",
+  "optimizer_updates": 2000,
+  "training_s": 29.230891999999585,
+  "validation_s": 46.766123000000334,
+  "seed": 208202,
+  "settings": {
+    "learning_rate": 0.0003,
+    "buffer_size": 10000,
+    "batch_size": 128,
+    "learning_starts": 0,
+    "train_freq": 4,
+    "gradient_steps": 2,
+    "gamma": 0.99,
+    "ent_coef": "auto_0.08",
+    "tau": 0.005
+  },
+  "bc_weight": 20.0,
+  "replay_prefill": 2000,
+  "selection": "fixed final step",
+  "method": "bc_regularized_sac",
+  "training_seed": 2,
+  "budget_ceiling": 6000,
+  "initial_sha256": "e2617ff8ce5e1ba2639dd07f3ce13737651911222b2e398347023a4c2026cf2b",
+  "checkpoint_sha256": "2fa03f9be875be563da518139534a12bc6c11f8298840b79601bf20b9f6cc770"
+}

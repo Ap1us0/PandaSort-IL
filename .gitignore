@@ -1,0 +1,15 @@
+# Local dependencies, upstream caches, and Python artifacts
+.deps/
+.upstream/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Large reproducible raw demonstration arrays, SB3 zip archives, and 500 Hz debug traces
+# (All trained .pt weights, PNG charts, verified MP4 videos, and per-scene CSV/JSON results are kept.)
+results/**/*.npz
+results/**/*.zip
+results/**/physics_trace.csv
+results/**/policy_trace.csv

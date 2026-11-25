@@ -1,0 +1,27 @@
+{
+  "seed": 0,
+  "scanned_scenes": 60,
+  "scanned_policy_failures": 24,
+  "rescued_failures": 14,
+  "collection_s": 168.01221140000007,
+  "shape_data": [
+    {
+      "shape": "cube",
+      "trajectories": 15,
+      "steps": 1282,
+      "sha256": "858016c9436d5c1dfdbf0ed352a490d3393cb08f12f5d8b510154d93146c1cef"
+    },
+    {
+      "shape": "brick",
+      "trajectories": 18,
+      "steps": 1076,
+      "sha256": "8298879bf7d77e49ac99f76fdb697ed1fa304f228c4aff40a482d6e52a282180"
+    },
+    {
+      "shape": "cylinder",
+      "trajectories": 14,
+      "steps": 1056,
+      "sha256": "6003bf925fd59898faa53d91dcce53a1e38024cb65df842a38e10455bcd12f75"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+shape,method,episodes,stable,strict,gripped,lifted,transport_drops
+cube,frozen_zero,16,16,8,16,16,0
+cube,frozen_random,16,4,3,16,12,8
+cube,fixed_teacher_random,16,7,7,16,16,7
+cube,yaw_teacher_random,16,14,14,16,16,0
+brick,frozen_zero,16,16,16,16,16,0
+brick,frozen_random,16,2,2,16,3,1
+brick,fixed_teacher_random,16,3,3,16,6,3
+brick,yaw_teacher_random,16,0,0,16,3,3
+cylinder,frozen_zero,16,16,10,16,16,0
+cylinder,frozen_random,16,16,9,16,16,0
+cylinder,fixed_teacher_random,16,16,16,16,16,0
+cylinder,yaw_teacher_random,16,16,16,16,16,0

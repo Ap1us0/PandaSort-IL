@@ -1,0 +1,9 @@
+{
+  "source": "results/pilot/seed_2/sac",
+  "archived_cost": {
+    "environment_steps": 24000,
+    "gradient_updates": 11744,
+    "training_s": 286.87095190000036
+  },
+  "archived_learning_curve": "results/pilot/seed_2/sac/learning_curve.csv"
+}

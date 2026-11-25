@@ -1,0 +1,8 @@
+method,seed,scenes,all_sorted,items,sorted_items,wrong_color_items,homing_failures,scenes_0_sorted,scenes_1_sorted,scenes_2_sorted,scenes_3_sorted
+expert,,30,20,90,78,0,0,0,2,8,20
+frozen,0,30,4,90,48,0,0,2,12,12,4
+frozen,1,30,10,90,60,0,0,2,6,12,10
+frozen,2,30,4,90,52,0,0,2,8,16,4
+adapted,0,30,9,90,63,0,0,1,4,16,9
+adapted,1,30,12,90,66,0,0,0,6,12,12
+adapted,2,30,11,90,64,0,0,1,5,13,11

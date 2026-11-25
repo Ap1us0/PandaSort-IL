@@ -1,0 +1,18 @@
+{
+  "method": "round1",
+  "seed": 0,
+  "checkpoint_sha256": "8aae3a04d82c5fdc05fd1492710faa35287bb2dccf66c8376459ee0c41c5a7ab",
+  "scenes": 30,
+  "all_sorted": 24,
+  "items": 90,
+  "sorted_items": 84,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 25,
+    "brick": 30,
+    "cylinder": 29
+  },
+  "cube_lifted": 29,
+  "cube_transport_drops": 2
+}

@@ -1,0 +1,39 @@
+{
+  "source": "friction_50",
+  "condition": "mass_250",
+  "seed": 2,
+  "checkpoint": "results/place_robustness/adapt/seed_2/friction_50/model.pt",
+  "checkpoint_sha256": "999f72213d12606da1e7cb5074e8d58d3b287f676b50705a06918d0640a0217c",
+  "mass_scale": 2.5,
+  "sliding_scale": 1.0,
+  "mass_kg": 0.1875,
+  "sliding_coefficient": 1.4,
+  "episodes": 100,
+  "successes": 91,
+  "success_rate": 0.91,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.0,
+  "drops_per_lift": 0.0,
+  "mean_max_lift_m": 0.0690598215236598,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 4.449322468361094,
+  "failure_reasons": {
+    "no_gripped_touchdown_at_target": 9
+  },
+  "transport_rate": 1.0,
+  "release_rate": 0.91,
+  "mean_goal_error_m": 0.0018502834666005807,
+  "mean_stable_placement_s": 0.91,
+  "touchdown_rate": 0.91,
+  "transport_drop_rate": 0.0,
+  "transport_drops_per_lift": 0.0,
+  "transport_grip_loss_rate": 1.0,
+  "table_at_goal_rate": 1.0,
+  "early_open_rate": 0.09,
+  "median_goal_error_m": 0.0009409467011153682,
+  "failure_stages": {
+    "touchdown": 9
+  }
+}

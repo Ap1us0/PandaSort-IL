@@ -1,0 +1,14 @@
+{
+  "condition": "mass_175",
+  "scenes": 90,
+  "all_sorted": 23,
+  "all_sorted_pct": 25.6,
+  "per_seed": "7/9/7",
+  "sorted_items": 192,
+  "sorted_items_pct": 71.1,
+  "cube_sorted": 25,
+  "brick_sorted": 88,
+  "cylinder_sorted": 79,
+  "cube_drops": 50,
+  "cube_lifted": 88
+}

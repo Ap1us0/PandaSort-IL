@@ -1,0 +1,37 @@
+{
+  "condition": "nominal",
+  "seed": 0,
+  "source": "adapted",
+  "checkpoint": "results/place_touchdown/training/seed_0/model.pt",
+  "checkpoint_sha256": "0354b6c0cff0393a8092b9ad13275036bfd66dab5a69259a9fe9bd58de13699a",
+  "mass_scale": 1.0,
+  "sliding_scale": 1.0,
+  "episodes": 100,
+  "successes": 99,
+  "success_rate": 0.99,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.0,
+  "drops_per_lift": 0.0,
+  "mean_max_lift_m": 0.08411996538868753,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 4.519623960563096,
+  "failure_reasons": {
+    "not_released_at_target": 1
+  },
+  "transport_rate": 1.0,
+  "release_rate": 0.99,
+  "mean_goal_error_m": 0.0023969380639100907,
+  "mean_stable_placement_s": 0.99,
+  "touchdown_rate": 1.0,
+  "transport_drop_rate": 0.0,
+  "transport_drops_per_lift": 0.0,
+  "transport_grip_loss_rate": 0.77,
+  "table_at_goal_rate": 1.0,
+  "early_open_rate": 0.0,
+  "median_goal_error_m": 0.0021297287656692797,
+  "failure_stages": {
+    "release": 1
+  }
+}

@@ -1,0 +1,17 @@
+test_physical_success_and_cube_qpos_only_moves_in_physics (test_env.GraspTests) ... ok
+test_registration_and_gymnasium_contract (test_env.GraspTests) ... D:\studay\AAAA\armlab\强化学习自主抓取\.deps\gymnasium\utils\env_checker.py:311: UserWarning: WARN: A Box observation space minimum value is -infinity. This is probably too low.
+  logger.warn(
+D:\studay\AAAA\armlab\强化学习自主抓取\.deps\gymnasium\utils\env_checker.py:315: UserWarning: WARN: A Box observation space maximum value is infinity. This is probably too high.
+  logger.warn(
+ok
+test_reward_and_success_shortcuts (test_env.GraspTests) ... ok
+test_seeded_reset_and_action_bounds (test_env.GraspTests) ... ok
+test_expansion_preserves_lift_policy_outputs (test_placement.PlacementTest) ... ok
+test_seeded_target_observation_and_marker (test_placement.PlacementTest) ... ok
+test_teacher_places_and_early_release_is_not_success (test_placement.PlacementTest) ... ok
+test_actor_output_matches_and_critics_stay_fresh (test_transfer.TransferTest) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 4.867s
+
+OK

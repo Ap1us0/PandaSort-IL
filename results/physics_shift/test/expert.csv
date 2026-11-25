@@ -1,0 +1,6 @@
+seed,method,condition,mass_scale,sliding_scale,cube_mass_kg,cube_sliding_coefficient,episodes,successes,success_rate,bilateral_rate,lift_rate,drop_rate,drops_per_lift,mean_max_lift_m,mean_max_hold_s,mean_max_hold_among_lifted_s,mean_return,failure_reasons,closed_near_rate
+,expert,nominal,1.0,1.0,0.075,1.4,100,100,1.0,1.0,1.0,0.0,0.0,0.08782701906901944,1.0,1.0,8.554529188015673,{},1.0
+,expert,friction_50,1.0,0.5,0.075,0.7,100,100,1.0,1.0,1.0,0.0,0.0,0.0849522617557869,1.0,1.0,8.602164070207277,{},1.0
+,expert,friction_35,1.0,0.35,0.075,0.48999999999999994,100,100,1.0,1.0,1.0,0.0,0.0,0.08341176783803235,1.0,1.0,8.370306751309078,{},1.0
+,expert,mass_250,2.5,1.0,0.1875,1.4,100,100,1.0,1.0,1.0,0.0,0.0,0.07921067241949033,1.0,1.0,8.606520499243517,{},1.0
+,expert,mass_300,3.0,1.0,0.22499999999999998,1.4,100,100,1.0,1.0,1.0,0.0,0.0,0.07343596658102501,1.0,1.0,8.695496797024212,{},1.0

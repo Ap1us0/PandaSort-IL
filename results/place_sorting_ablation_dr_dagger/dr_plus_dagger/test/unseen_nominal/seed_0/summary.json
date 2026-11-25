@@ -1,0 +1,14 @@
+{
+  "arm": "dr_plus_dagger",
+  "condition": "unseen_nominal",
+  "seed": 0,
+  "checkpoint_sha256": "7223957c896860df122afeca42a22836adafa9dde996ed4224b71b771bdc1b3a",
+  "scenes": 30,
+  "all_sorted": 20,
+  "sorted_items": 80,
+  "cube_sorted": 21,
+  "cube_lifted": 30,
+  "cube_drops": 0,
+  "brick_sorted": 30,
+  "cylinder_sorted": 29
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "seed": 0,
+    "new_steps": 1732,
+    "successful_demos": 12,
+    "selected_updates": 1500,
+    "verified_demo_scene": 81000000,
+    "selected_sha256": "0354b6c0cff0393a8092b9ad13275036bfd66dab5a69259a9fe9bd58de13699a"
+  },
+  {
+    "seed": 1,
+    "new_steps": 1685,
+    "successful_demos": 12,
+    "selected_updates": 0,
+    "verified_demo_scene": 81010000,
+    "selected_sha256": "44c07ee64dbf4b6265405720e31980bf56fb63d123b8526c5e8bcd2e70ce70bd"
+  },
+  {
+    "seed": 2,
+    "new_steps": 1682,
+    "successful_demos": 12,
+    "selected_updates": 250,
+    "verified_demo_scene": 81020000,
+    "selected_sha256": "e2617ff8ce5e1ba2639dd07f3ce13737651911222b2e398347023a4c2026cf2b"
+  }
+]

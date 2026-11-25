@@ -1,0 +1,11 @@
+{
+  "seed": 1,
+  "condition": "friction_60",
+  "transport_only": true,
+  "critic_warmup": 1500,
+  "base_sha256": "91f35d337e23f68c7c458da48893b35db76d874eecaea6d20c3307aefdff5189",
+  "online_steps": 8000,
+  "new_expert_demos": 0,
+  "selected_step": 0,
+  "training_s": 547.9705875
+}

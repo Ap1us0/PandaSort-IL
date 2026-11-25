@@ -1,0 +1,57 @@
+{
+  "datasets": [
+    {
+      "seed": 0,
+      "episodes": 160,
+      "transitions": 24536,
+      "exact_observation_replays": [
+        0,
+        40
+      ]
+    },
+    {
+      "seed": 1,
+      "episodes": 160,
+      "transitions": 24632,
+      "exact_observation_replays": [
+        0,
+        40
+      ]
+    },
+    {
+      "seed": 2,
+      "episodes": 160,
+      "transitions": 24531,
+      "exact_observation_replays": [
+        0,
+        40
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "path": "results/pick_place/seed_0/success_1200000.mp4",
+      "frames": 156,
+      "seconds": 7.8,
+      "success": true
+    },
+    {
+      "path": "results/pick_place/seed_1/success_1200000.mp4",
+      "frames": 153,
+      "seconds": 7.65,
+      "success": true
+    },
+    {
+      "path": "results/pick_place/seed_2/success_1200000.mp4",
+      "frames": 151,
+      "seconds": 7.55,
+      "success": true
+    },
+    {
+      "path": "results/pick_place/early_release_check/early_release_1200000.mp4",
+      "frames": 241,
+      "seconds": 12.05,
+      "success": false
+    }
+  ]
+}

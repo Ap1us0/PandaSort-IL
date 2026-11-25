@@ -1,0 +1,14 @@
+{
+  "condition": "size_90",
+  "scenes": 90,
+  "all_sorted": 57,
+  "all_sorted_pct": 63.3,
+  "per_seed": "19/19/19",
+  "sorted_items": 230,
+  "sorted_items_pct": 85.2,
+  "cube_sorted": 57,
+  "brick_sorted": 89,
+  "cylinder_sorted": 84,
+  "cube_drops": 26,
+  "cube_lifted": 90
+}

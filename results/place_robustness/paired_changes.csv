@@ -1,0 +1,7 @@
+run,condition,failure_to_success,success_to_failure
+seed_0,friction_50,62,0
+seed_0,mass_250,86,0
+seed_1,friction_50,74,0
+seed_1,mass_250,91,0
+seed_2,friction_50,43,1
+seed_2,mass_250,14,1

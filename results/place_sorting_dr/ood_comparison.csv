@@ -1,0 +1,7 @@
+condition,history_all_sorted,history_all_pct,history_per_seed,history_items_pct,history_cube_drops,dr_all_sorted,dr_all_pct,dr_per_seed,dr_items_pct,dr_cube_sorted,dr_brick_sorted,dr_cylinder_sorted,dr_cube_drops,dr_cube_lifted,gain_all_pp
+nominal,74,82.2,25/25/24,93.7,6,76,84.4,27/25/24,94.8,76,90,90,1,87,2.2
+size_108,71,78.9,24/24/23,91.5,2,80,88.9,25/27/28,96.3,83,89,88,0,86,10.0
+jitter_12mm,64,71.1,22/20/22,89.3,3,72,80.0,25/23/24,93.3,75,87,90,1,90,8.9
+size_90,57,63.3,19/19/19,85.2,26,65,72.2,20/24/21,89.6,66,89,87,9,90,8.9
+friction_60,45,50.0,16/14/15,80.4,30,55,61.1,16/21/18,86.7,55,90,89,12,87,11.1
+mass_175,23,25.6,7/9/7,71.1,50,40,44.4,14/13/13,80.4,41,89,87,25,87,18.8

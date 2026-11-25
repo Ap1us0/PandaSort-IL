@@ -1,0 +1,17 @@
+{
+  "seed": 1,
+  "episodes": 42,
+  "successful": 40,
+  "transitions": 6000,
+  "collection_s": 38.82500879999952,
+  "condition": "friction_70_mass_150",
+  "prefix_policy": "edge_landing",
+  "interaction_budget": 6000,
+  "landing_teacher": "verified_touch from carried arrival",
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

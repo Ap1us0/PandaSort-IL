@@ -1,0 +1,19 @@
+{
+  "method": "fixed_teacher_random",
+  "shape": "brick",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": false,
+  "episodes": 16,
+  "stable": 3,
+  "strict": 3,
+  "gripped": 16,
+  "lifted": 6,
+  "transported": 3,
+  "transport_drops": 3,
+  "failure_stages": {
+    "lift": 10,
+    "transport": 3
+  },
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

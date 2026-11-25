@@ -1,0 +1,34 @@
+{
+  "teacher": "verified_touch",
+  "validation_seeds": [
+    1470000,
+    1470001,
+    1470002,
+    1470003,
+    1470004,
+    1470005,
+    1470006,
+    1470007,
+    1470008,
+    1470009,
+    1470010,
+    1470011
+  ],
+  "candidates": {
+    "standard": {
+      "successes": 10,
+      "early_open_rate": 0.16666666666666666,
+      "transport_drop_rate": 0.0
+    },
+    "verified_touch": {
+      "successes": 12,
+      "early_open_rate": 0.0,
+      "transport_drop_rate": 0.0
+    },
+    "slow_verified_touch": {
+      "successes": 11,
+      "early_open_rate": 0.0,
+      "transport_drop_rate": 0.0
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "seed": 0,
+    "condition": "friction_50",
+    "demonstration_steps": 1763,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 250
+  },
+  {
+    "seed": 0,
+    "condition": "mass_250",
+    "demonstration_steps": 1734,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 750
+  },
+  {
+    "seed": 1,
+    "condition": "friction_50",
+    "demonstration_steps": 1765,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 250
+  },
+  {
+    "seed": 1,
+    "condition": "mass_250",
+    "demonstration_steps": 1745,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 750
+  },
+  {
+    "seed": 2,
+    "condition": "friction_50",
+    "demonstration_steps": 1792,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 250
+  },
+  {
+    "seed": 2,
+    "condition": "mass_250",
+    "demonstration_steps": 1730,
+    "complete_successful_demos": 12,
+    "checked_episode": 0,
+    "selected_updates": 1500
+  }
+]

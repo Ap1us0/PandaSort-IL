@@ -1,0 +1,4 @@
+method,condition,seed,checkpoint_mode,evaluated_checkpoint,selected_step,scenes,all_sorted,sorted_items,cube_sorted,cube_lifted,cube_transport_drops,brick_sorted,cylinder_sorted
+gated_residual_sac,friction_60,0,final,final_step_8000,0,30,9,65,9,29,15,30,26
+gated_residual_sac,friction_60,1,final,final_step_8000,0,30,13,69,14,29,13,29,26
+gated_residual_sac,friction_60,2,final,final_step_8000,0,30,8,66,8,30,16,30,28

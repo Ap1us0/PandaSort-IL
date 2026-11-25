@@ -1,0 +1,18 @@
+{
+  "episodes": 100,
+  "successes": 0,
+  "success_rate": 0.0,
+  "bilateral_rate": 0.14,
+  "lift_rate": 0.0,
+  "drop_rate": 0.0,
+  "drops_per_lift": null,
+  "mean_max_lift_m": 0.0008503108993935404,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": null,
+  "mean_return": -1.5082113542778135,
+  "failure_reasons": {
+    "no_bilateral_grasp": 86,
+    "grasp_without_lift": 14
+  },
+  "closed_near_rate": 0.02
+}

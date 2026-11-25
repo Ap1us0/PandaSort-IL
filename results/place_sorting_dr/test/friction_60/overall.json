@@ -1,0 +1,14 @@
+{
+  "condition": "friction_60",
+  "scenes": 90,
+  "all_sorted": 55,
+  "all_sorted_pct": 61.1,
+  "per_seed": "16/21/18",
+  "sorted_items": 234,
+  "sorted_items_pct": 86.7,
+  "cube_sorted": 55,
+  "brick_sorted": 90,
+  "cylinder_sorted": 89,
+  "cube_drops": 12,
+  "cube_lifted": 87
+}

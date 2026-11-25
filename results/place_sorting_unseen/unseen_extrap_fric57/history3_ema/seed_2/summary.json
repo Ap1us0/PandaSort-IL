@@ -1,0 +1,14 @@
+{
+  "family": "history3_ema",
+  "condition": "unseen_extrap_fric57",
+  "seed": 2,
+  "checkpoint_sha256": "cb6490473ea5176359a40d5b9fc1b49a3efd313cb01e1ead7806fc786d0abeb0",
+  "scenes": 30,
+  "all_sorted": 6,
+  "sorted_items": 58,
+  "cube_sorted": 7,
+  "cube_lifted": 29,
+  "cube_drops": 21,
+  "brick_sorted": 27,
+  "cylinder_sorted": 24
+}

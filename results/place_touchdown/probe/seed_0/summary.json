@@ -1,0 +1,30 @@
+{
+  "seed": 0,
+  "checkpoint_sha256": "1bb79fc866bb102a37a28e212b2cf5397960f441e065907d5e29f0ee48627af6",
+  "descent_scale": 0.5,
+  "outcomes": [
+    {
+      "intervention": "hold_grip",
+      "initial_failures": 42,
+      "initial_success_controls": 12,
+      "rescued_failures": 38,
+      "regressed_successes": 0,
+      "rescued_touchdowns": 38,
+      "failed_after_probe": {
+        "transport": 4
+      }
+    },
+    {
+      "intervention": "slow_descent",
+      "initial_failures": 42,
+      "initial_success_controls": 12,
+      "rescued_failures": 8,
+      "regressed_successes": 7,
+      "rescued_touchdowns": 8,
+      "failed_after_probe": {
+        "touchdown": 37,
+        "transport": 4
+      }
+    }
+  ]
+}

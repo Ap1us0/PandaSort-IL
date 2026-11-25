@@ -1,0 +1,6 @@
+method,scenes,all_sorted,sorted_items,cube_sorted,cube_lifted,cube_transport_drops
+binary,90,26,178,44,78,30
+force,90,24,178,47,80,23
+slip,90,32,189,46,85,31
+transport,90,27,185,50,83,28
+continuous,90,24,178,47,84,30

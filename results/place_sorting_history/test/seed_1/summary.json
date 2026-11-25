@@ -1,0 +1,18 @@
+{
+  "method": "history3_ema",
+  "seed": 1,
+  "checkpoint_sha256": "91f35d337e23f68c7c458da48893b35db76d874eecaea6d20c3307aefdff5189",
+  "scenes": 30,
+  "all_sorted": 25,
+  "items": 90,
+  "sorted_items": 85,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 27,
+    "brick": 30,
+    "cylinder": 28
+  },
+  "cube_lifted": 29,
+  "cube_transport_drops": 1
+}

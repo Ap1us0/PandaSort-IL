@@ -1,0 +1,14 @@
+method,seed,scenes,all_sorted,sorted_items,cube_sorted,cube_lifted,cube_transport_drops,brick_sorted,cylinder_sorted
+force_in_transport,0,30,13,68,18,29,7,23,27
+force_in_transport,1,30,12,69,18,30,8,23,28
+force_in_transport,2,30,13,67,20,27,5,20,27
+aligned_r1,0,30,24,84,25,29,2,30,29
+aligned_r1,1,30,18,76,25,29,2,28,23
+aligned_r1,2,30,25,84,25,28,2,29,30
+dagger,0,30,20,79,20,28,8,30,29
+dagger,1,30,24,84,27,29,1,29,28
+dagger,2,30,26,85,27,29,2,28,30
+history3_ema,0,30,25,84,27,29,2,30,27
+history3_ema,1,30,25,85,27,29,1,30,28
+history3_ema,2,30,24,84,27,30,3,30,27
+aligned_expert,,30,25,83,28,30,1,30,25

@@ -1,0 +1,4 @@
+run,episodes,frozen_successes,probe_successes,failure_to_success,success_to_failure,frozen_transport_drops,probe_transport_drops
+seed_0,25,12,22,10,0,3,3
+seed_1,25,4,15,11,0,6,6
+seed_2,25,14,19,8,3,1,1

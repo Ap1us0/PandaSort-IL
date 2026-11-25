@@ -1,0 +1,20 @@
+[
+  {
+    "seed": 0,
+    "source": "results/place_edge/seed_0/generic_landing/model_fixed_250.pt",
+    "steps": 250,
+    "all_tensors_exact": true
+  },
+  {
+    "seed": 1,
+    "source": "results/place_edge/seed_1/generic_landing/model_fixed_250.pt",
+    "steps": 250,
+    "all_tensors_exact": true
+  },
+  {
+    "seed": 2,
+    "source": "results/place_edge/seed_2/generic_landing/model.pt",
+    "steps": 250,
+    "all_tensors_exact": true
+  }
+]

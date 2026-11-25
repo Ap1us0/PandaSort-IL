@@ -1,0 +1,10 @@
+seed,reference,other,stable_gained,stable_lost,drops_avoided,drops_added
+0,frozen_bc,extra_demo_bc,9,2,8,1
+0,frozen_bc,bc_regularized_sac,2,15,6,3
+0,extra_demo_bc,bc_regularized_sac,2,22,1,5
+1,frozen_bc,extra_demo_bc,9,1,11,0
+1,frozen_bc,bc_regularized_sac,4,52,5,49
+1,extra_demo_bc,bc_regularized_sac,0,56,0,55
+2,frozen_bc,extra_demo_bc,2,5,4,1
+2,frozen_bc,bc_regularized_sac,3,20,3,0
+2,extra_demo_bc,bc_regularized_sac,5,19,1,1

@@ -1,0 +1,13 @@
+seed,condition,mode,group,episodes,drops,stable,transported
+1,friction_70_mass_150,policy,original_drop,17,17,0,0
+1,friction_70_mass_150,policy,original_stable,17,0,17,17
+1,friction_70_mass_150,full_close,original_drop,17,2,15,15
+1,friction_70_mass_150,full_close,original_stable,17,0,17,17
+1,friction_70_mass_150,half_xy,original_drop,17,17,0,0
+1,friction_70_mass_150,half_xy,original_stable,17,17,0,0
+1,friction_70_mass_150,lift_clearance,original_drop,17,2,13,15
+1,friction_70_mass_150,lift_clearance,original_stable,17,1,16,16
+1,friction_75_mass_150,policy,original_drop,17,1,16,16
+1,friction_75_mass_150,policy,original_stable,17,0,17,17
+2,friction_70_mass_150,policy,original_drop,17,0,17,17
+2,friction_70_mass_150,policy,original_stable,17,0,17,17

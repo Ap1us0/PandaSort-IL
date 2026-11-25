@@ -1,0 +1,13 @@
+{
+  "condition": "size_108",
+  "seed": 2,
+  "checkpoint_sha256": "dc53011bb0dc34619f99c36c64ceadcc6a5cbd510867a1256bf0c9416519037b",
+  "scenes": 30,
+  "all_sorted": 28,
+  "sorted_items": 88,
+  "cube_sorted": 29,
+  "cube_lifted": 29,
+  "cube_transport_drops": 0,
+  "brick_sorted": 30,
+  "cylinder_sorted": 29
+}

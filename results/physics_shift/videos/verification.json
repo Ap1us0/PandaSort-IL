@@ -1,0 +1,16 @@
+[
+  {
+    "path": "results/physics_shift/videos/friction_35_expert_1320000.mp4",
+    "scenario_seed": 1320000,
+    "frames": 94,
+    "seconds": 4.7,
+    "success": true
+  },
+  {
+    "path": "results/physics_shift/videos/friction_35_bc_1320000.mp4",
+    "scenario_seed": 1320000,
+    "frames": 121,
+    "seconds": 6.05,
+    "success": false
+  }
+]

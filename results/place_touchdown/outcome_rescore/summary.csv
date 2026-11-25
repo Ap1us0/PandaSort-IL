@@ -1,0 +1,7 @@
+profile,seed,episodes,strict_successes,stable_placement_successes,stable_without_gripped_touchdown
+frozen,0,100,64,97,33
+adapted,0,100,89,99,10
+frozen,1,100,93,99,6
+adapted,1,100,93,99,6
+frozen,2,100,64,94,30
+adapted,2,100,90,100,10

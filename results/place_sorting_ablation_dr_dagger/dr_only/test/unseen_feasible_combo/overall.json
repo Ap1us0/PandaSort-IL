@@ -1,0 +1,15 @@
+{
+  "arm": "dr_only",
+  "condition": "unseen_feasible_combo",
+  "scenes": 90,
+  "all_sorted": 59,
+  "all_sorted_pct": 65.6,
+  "per_seed": "19/21/19",
+  "sorted_items": 235,
+  "sorted_items_pct": 87.0,
+  "cube_sorted": 63,
+  "cube_lifted": 87,
+  "cube_drops": 9,
+  "brick_sorted": 83,
+  "cylinder_sorted": 89
+}

@@ -1,0 +1,21 @@
+{
+  "method": "frozen",
+  "seed": 1,
+  "checkpoint": "results/place_transport_anchor/seed_1/model.pt",
+  "checkpoint_sha256": "ea597c205b39f6cff4ceaef2b13312f55528d555f48a5b037863cc481295386f",
+  "shape": "cylinder",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": false,
+  "episodes": 36,
+  "stable": 34,
+  "strict": 24,
+  "gripped": 36,
+  "lifted": 34,
+  "transported": 34,
+  "transport_drops": 0,
+  "failure_stages": {
+    "lift": 2
+  },
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

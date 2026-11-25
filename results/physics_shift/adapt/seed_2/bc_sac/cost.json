@@ -1,0 +1,8 @@
+{
+  "initial_checkpoint": "results/sac_ablation/seed_2/bc_regularized/model.zip",
+  "new_demo_steps": 1049,
+  "online_steps": 6948,
+  "optimizer_updates": 3218,
+  "total_new_steps": 7997,
+  "fresh_online_buffer": true
+}

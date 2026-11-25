@@ -1,0 +1,10 @@
+seed,before,after,stable_gained,stable_lost,drops_avoided,drops_added
+0,frozen_previous,generic_landing,9,0,1,0
+0,frozen_previous,edge_landing,6,3,1,0
+0,generic_landing,edge_landing,0,6,0,0
+1,frozen_previous,generic_landing,1,9,0,10
+1,frozen_previous,edge_landing,1,4,0,6
+1,generic_landing,edge_landing,6,1,5,1
+2,frozen_previous,generic_landing,5,0,0,0
+2,frozen_previous,edge_landing,3,2,0,0
+2,generic_landing,edge_landing,0,4,0,0

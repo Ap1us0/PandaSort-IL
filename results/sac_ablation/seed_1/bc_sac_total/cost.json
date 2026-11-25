@@ -1,0 +1,6 @@
+{
+  "environment_steps": 9832,
+  "critic_updates": 4660,
+  "actor_updates": 4660,
+  "training_s": 204.1298289999977
+}

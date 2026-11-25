@@ -1,0 +1,16 @@
+{
+  "method": "mixed",
+  "seed": 1,
+  "checkpoint_sha256": "9d8db3fe224a13513469978138983dae50c711e3e36255a6c07bc8d1c0ef806e",
+  "scenes": 30,
+  "all_sorted": 4,
+  "items": 90,
+  "sorted_items": 53,
+  "wrong_color_items": 1,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 7,
+    "brick": 18,
+    "cylinder": 28
+  }
+}

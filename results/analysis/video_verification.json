@@ -1,0 +1,65 @@
+[
+  {
+    "video": "results/contact_trigger/seed_0/bc/success_900000.mp4",
+    "frames": 90,
+    "seconds": 4.5,
+    "scene": 900000,
+    "success": true
+  },
+  {
+    "video": "results/contact_trigger/seed_2/bc_sac/failure_900001.mp4",
+    "frames": 121,
+    "seconds": 6.05,
+    "scene": 900001,
+    "success": false
+  },
+  {
+    "video": "results/contact_trigger/seed_2/bc_sac/success_900000.mp4",
+    "frames": 113,
+    "seconds": 5.65,
+    "scene": 900000,
+    "success": true
+  },
+  {
+    "video": "results/pilot/seed_0/bc/success_900000.mp4",
+    "frames": 98,
+    "seconds": 4.9,
+    "scene": 900000,
+    "success": true
+  },
+  {
+    "video": "results/pilot/seed_0/bc_sac/failure_900000.mp4",
+    "frames": 121,
+    "seconds": 6.05,
+    "scene": 900000,
+    "success": false
+  },
+  {
+    "video": "results/pilot/seed_0/expert/success_900000.mp4",
+    "frames": 97,
+    "seconds": 4.85,
+    "scene": 900000,
+    "success": true
+  },
+  {
+    "video": "results/pilot/seed_0/random/failure_900000.mp4",
+    "frames": 121,
+    "seconds": 6.05,
+    "scene": 900000,
+    "success": false
+  },
+  {
+    "video": "results/pilot/seed_0/sac/failure_900000.mp4",
+    "frames": 121,
+    "seconds": 6.05,
+    "scene": 900000,
+    "success": false
+  },
+  {
+    "video": "results/pilot/seed_1/bc/failure_900000.mp4",
+    "frames": 121,
+    "seconds": 6.05,
+    "scene": 900000,
+    "success": false
+  }
+]

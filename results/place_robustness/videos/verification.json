@@ -1,0 +1,20 @@
+[
+  {
+    "policy": "frozen",
+    "checkpoint": "results/pick_place/seed_0/model.pt",
+    "video": "results/place_robustness/videos/frozen_friction_50_1420003.mp4",
+    "scenario_seed": 1420003,
+    "frames": 241,
+    "seconds": 12.05,
+    "success": false
+  },
+  {
+    "policy": "adapted",
+    "checkpoint": "results/place_robustness/adapt/seed_0/friction_50/model.pt",
+    "video": "results/place_robustness/videos/adapted_friction_50_1420003.mp4",
+    "scenario_seed": 1420003,
+    "frames": 161,
+    "seconds": 8.05,
+    "success": true
+  }
+]

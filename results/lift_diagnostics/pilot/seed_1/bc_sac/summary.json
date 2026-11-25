@@ -1,0 +1,102 @@
+{
+  "policy": {
+    "episodes": 100,
+    "successes": 0,
+    "lifted": 0,
+    "mean_max_hold_s": 0.0,
+    "mean_post_lift_xyz_rms": null,
+    "failure_reasons": {
+      "no_bilateral_grasp": 99,
+      "grasp_without_lift": 1
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 0,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 0
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": null,
+      "ticks_no_bilateral": null,
+      "ticks_table_contact": null,
+      "ticks_linear_speed": null,
+      "ticks_angular_speed": null
+    }
+  },
+  "policy_paired": {
+    "episodes": 25,
+    "successes": 0,
+    "lifted": 0,
+    "mean_max_hold_s": 0.0,
+    "mean_post_lift_xyz_rms": null,
+    "failure_reasons": {
+      "no_bilateral_grasp": 24,
+      "grasp_without_lift": 1
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 0,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 0
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": null,
+      "ticks_no_bilateral": null,
+      "ticks_table_contact": null,
+      "ticks_linear_speed": null,
+      "ticks_angular_speed": null
+    }
+  },
+  "freeze_xyz": {
+    "episodes": 25,
+    "successes": 0,
+    "lifted": 0,
+    "mean_max_hold_s": 0.0,
+    "mean_post_lift_xyz_rms": null,
+    "failure_reasons": {
+      "no_bilateral_grasp": 24,
+      "grasp_without_lift": 1
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 0,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 0
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": null,
+      "ticks_no_bilateral": null,
+      "ticks_table_contact": null,
+      "ticks_linear_speed": null,
+      "ticks_angular_speed": null
+    }
+  },
+  "freeze_close": {
+    "episodes": 25,
+    "successes": 0,
+    "lifted": 0,
+    "mean_max_hold_s": 0.0,
+    "mean_post_lift_xyz_rms": null,
+    "failure_reasons": {
+      "no_bilateral_grasp": 24,
+      "grasp_without_lift": 1
+    },
+    "hold_breaks": {
+      "breaks_low_height": 0,
+      "breaks_no_bilateral": 0,
+      "breaks_table_contact": 0,
+      "breaks_linear_speed": 0,
+      "breaks_angular_speed": 0
+    },
+    "post_lift_violation_fraction": {
+      "ticks_low_height": null,
+      "ticks_no_bilateral": null,
+      "ticks_table_contact": null,
+      "ticks_linear_speed": null,
+      "ticks_angular_speed": null
+    }
+  }
+}

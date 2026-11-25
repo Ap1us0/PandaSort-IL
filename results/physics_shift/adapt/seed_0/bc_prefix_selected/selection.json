@@ -1,0 +1,5 @@
+{
+  "optimizer_updates": 1000,
+  "screen_successes": 12,
+  "rule": "maximize screening successes, choose earliest on ties"
+}

@@ -1,0 +1,16 @@
+{
+  "method": "expert",
+  "seed": null,
+  "checkpoint_sha256": null,
+  "scenes": 4,
+  "all_sorted": 3,
+  "items": 12,
+  "sorted_items": 11,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 4,
+    "brick": 4,
+    "cylinder": 3
+  }
+}

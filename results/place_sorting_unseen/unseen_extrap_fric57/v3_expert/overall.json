@@ -1,0 +1,14 @@
+{
+  "family": "v3_expert",
+  "condition": "unseen_extrap_fric57",
+  "scenes": 30,
+  "all_sorted": 4,
+  "all_sorted_pct": 13.3,
+  "sorted_items": 62,
+  "sorted_items_pct": 68.9,
+  "cube_sorted": 4,
+  "cube_lifted": 30,
+  "cube_drops": 14,
+  "brick_sorted": 29,
+  "cylinder_sorted": 29
+}

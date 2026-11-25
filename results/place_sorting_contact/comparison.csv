@@ -1,0 +1,7 @@
+method,seed,scenes,all_sorted,items,sorted_items,wrong_color_items,homing_failures,scenes_0_sorted,scenes_1_sorted,scenes_2_sorted,scenes_3_sorted
+binary,0,30,12,90,66,0,0,0,6,12,12
+binary,1,30,10,90,62,1,0,1,6,13,10
+binary,2,30,9,90,63,0,0,0,6,15,9
+continuous,0,30,11,90,63,0,0,1,6,12,11
+continuous,1,30,9,90,59,0,0,2,6,13,9
+continuous,2,30,7,90,61,0,0,1,4,18,7

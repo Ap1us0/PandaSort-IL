@@ -1,0 +1,13 @@
+{
+  "condition": "jitter_12mm",
+  "seed": 1,
+  "checkpoint_sha256": "0a431889058b0d6f88cbec98813d95cc79efa6ba62c091de883e02447e33e2b7",
+  "scenes": 30,
+  "all_sorted": 23,
+  "sorted_items": 83,
+  "cube_sorted": 24,
+  "cube_lifted": 30,
+  "cube_transport_drops": 1,
+  "brick_sorted": 29,
+  "cylinder_sorted": 30
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "dr_only",
+  "seed": 0,
+  "total_scenes": 120,
+  "nominal_scenes": 60,
+  "dr_scenes": 60,
+  "dagger_scenes": 0,
+  "total_updates": 8000,
+  "selected_updates": 8000,
+  "checkpoint_sha256": "ad97bbd5ca31190d03ff11fb4ddcbd1a2b12169d8f1124c4f321dd2baef41cdb"
+}

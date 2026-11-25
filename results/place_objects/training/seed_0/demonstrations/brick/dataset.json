@@ -1,0 +1,18 @@
+{
+  "seed": 0,
+  "episodes": 19,
+  "successful": 18,
+  "transitions": 3000,
+  "collection_s": 26.503162400000292,
+  "shape": "brick",
+  "random_yaw": true,
+  "expert": "aligned_verified_touch",
+  "teacher_mode": "long_axis",
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper",
+    "dyaw"
+  ]
+}

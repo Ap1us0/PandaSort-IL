@@ -1,0 +1,13 @@
+{
+  "condition": "friction_60",
+  "seed": 0,
+  "checkpoint_sha256": "0f654fec3d06e78c6d7e6126694e29216ba215888427b4e98e9611b459b5a550",
+  "scenes": 30,
+  "all_sorted": 16,
+  "sorted_items": 76,
+  "cube_sorted": 16,
+  "cube_lifted": 29,
+  "cube_transport_drops": 7,
+  "brick_sorted": 30,
+  "cylinder_sorted": 30
+}

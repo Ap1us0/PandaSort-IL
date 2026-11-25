@@ -1,0 +1,15 @@
+{
+  "condition": "friction_60",
+  "checkpoint_mode": "final",
+  "scenes": 90,
+  "all_sorted": 30,
+  "all_sorted_pct": 33.3,
+  "per_seed": "9/13/8",
+  "sorted_items": 200,
+  "sorted_items_pct": 74.1,
+  "cube_sorted": 31,
+  "brick_sorted": 89,
+  "cylinder_sorted": 80,
+  "cube_drops": 44,
+  "cube_lifted": 88
+}

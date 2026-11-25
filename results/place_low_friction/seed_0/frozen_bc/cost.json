@@ -1,0 +1,12 @@
+{
+  "new_demo_steps": 0,
+  "new_online_steps": 0,
+  "training_s": 0.0,
+  "new_demo_collection_s": 0.0,
+  "selected_checkpoint": "results/place_touchdown/training/seed_0/model.pt",
+  "method": "frozen_bc",
+  "training_seed": 0,
+  "budget_ceiling": 6000,
+  "initial_sha256": "0354b6c0cff0393a8092b9ad13275036bfd66dab5a69259a9fe9bd58de13699a",
+  "checkpoint_sha256": "0354b6c0cff0393a8092b9ad13275036bfd66dab5a69259a9fe9bd58de13699a"
+}

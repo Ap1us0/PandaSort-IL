@@ -1,0 +1,16 @@
+{
+  "seed": 1,
+  "episodes": 160,
+  "successful": 158,
+  "transitions": 24632,
+  "collection_s": 165.40343270000085,
+  "task": "PandaPickPlace-v0",
+  "obs_size": 44,
+  "contact_trigger_expert": true,
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

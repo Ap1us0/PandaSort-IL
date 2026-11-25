@@ -1,0 +1,18 @@
+{
+  "method": "dagger",
+  "seed": 2,
+  "checkpoint_sha256": "0d8acbcd24406b8ab44530974e7af32a4ccee3c2a3939a7fa9e9af9c66695e49",
+  "scenes": 30,
+  "all_sorted": 26,
+  "items": 90,
+  "sorted_items": 85,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 27,
+    "brick": 28,
+    "cylinder": 30
+  },
+  "cube_lifted": 29,
+  "cube_transport_drops": 2
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "dataset": "results/contact_trigger/seed_0/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14258,
+    "successful": 38,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 90
+    }
+  },
+  {
+    "dataset": "results/contact_trigger/seed_1/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14166,
+    "successful": 39,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 89
+    }
+  },
+  {
+    "dataset": "results/contact_trigger/seed_2/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14176,
+    "successful": 36,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 92
+    }
+  },
+  {
+    "dataset": "results/pilot/seed_0/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14510,
+    "successful": 36,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 92
+    }
+  },
+  {
+    "dataset": "results/pilot/seed_1/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14474,
+    "successful": 36,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 92
+    }
+  },
+  {
+    "dataset": "results/pilot/seed_2/bc/expert.npz",
+    "episodes": 128,
+    "transitions": 14452,
+    "successful": 36,
+    "replayed_episodes": [
+      0,
+      32
+    ],
+    "failed_causes": {
+      "unstable_hold": 92
+    }
+  }
+]

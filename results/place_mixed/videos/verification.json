@@ -1,0 +1,22 @@
+[
+  {
+    "policy": "nominal",
+    "seed": 0,
+    "scenario_seed": 1460000,
+    "file": "results/place_mixed/videos/nominal_combined_moderate_1460000.mp4",
+    "checkpoint": "results/pick_place/seed_0/model.pt",
+    "frames": 241,
+    "seconds": 12.05,
+    "success": false
+  },
+  {
+    "policy": "mixed",
+    "seed": 0,
+    "scenario_seed": 1460000,
+    "file": "results/place_mixed/videos/mixed_combined_moderate_1460000.mp4",
+    "checkpoint": "results/place_mixed/mixed/seed_0/model.pt",
+    "frames": 146,
+    "seconds": 7.3,
+    "success": true
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "seed": 2,
+  "episodes": 128,
+  "successful": 36,
+  "transitions": 14452,
+  "collection_s": 97.54069700000036,
+  "obs_fields": {
+    "joint_position_rad": [
+      7,
+      1.0
+    ],
+    "joint_velocity_rad_s": [
+      7,
+      2.0
+    ],
+    "tcp_position_m": [
+      3,
+      0.5
+    ],
+    "tcp_velocity_m_s": [
+      3,
+      0.3
+    ],
+    "cube_position_m": [
+      3,
+      0.5
+    ],
+    "cube_velocity_m_s": [
+      3,
+      0.3
+    ],
+    "cube_angular_velocity_rad_s": [
+      3,
+      2.0
+    ],
+    "finger_position_m": [
+      2,
+      0.04
+    ],
+    "tcp_to_cube_m": [
+      3,
+      0.12
+    ],
+    "grasp_force_indicator": [
+      2,
+      1.0
+    ],
+    "hold_fraction": [
+      1,
+      1.0
+    ]
+  },
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

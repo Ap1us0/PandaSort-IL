@@ -1,0 +1,30 @@
+{
+  "scenes": 60,
+  "all_sorted": 42,
+  "sorted_items": 162,
+  "expert_action_steps": 27729,
+  "collection_s": 241.18491089999952,
+  "shape_data": [
+    {
+      "shape": "cube",
+      "attempts": 60,
+      "successful": 49,
+      "expert_action_steps": 9232,
+      "sha256": "75434c2ea02f918ee6ca599b8f770fce4f7bde0a1fb72c473323274ee429e224"
+    },
+    {
+      "shape": "brick",
+      "attempts": 60,
+      "successful": 59,
+      "expert_action_steps": 9312,
+      "sha256": "501bf46e016e2f7a52ccb63668e3adffd49478f5177639ebdf10b38acac9be0c"
+    },
+    {
+      "shape": "cylinder",
+      "attempts": 60,
+      "successful": 54,
+      "expert_action_steps": 9185,
+      "sha256": "33ba85bd0193100a5a37d32125f5047f102d9198ecab2d631ec6ee220bbcea0c"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "seed": 0,
+  "episodes": 13,
+  "successful": 10,
+  "transitions": 2000,
+  "collection_s": 6.946683600000142,
+  "condition": "friction_70_mass_150",
+  "teacher": "verified_touch",
+  "budget": 2000,
+  "actions": [
+    "dx",
+    "dy",
+    "dz",
+    "gripper"
+  ]
+}

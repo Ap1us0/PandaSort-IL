@@ -1,0 +1,18 @@
+{
+  "method": "frozen_random",
+  "seed": 1,
+  "checkpoint_sha256": "ea597c205b39f6cff4ceaef2b13312f55528d555f48a5b037863cc481295386f",
+  "shape": "cylinder",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": false,
+  "episodes": 16,
+  "stable": 16,
+  "strict": 9,
+  "gripped": 16,
+  "lifted": 16,
+  "transported": 16,
+  "transport_drops": 0,
+  "failure_stages": {},
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

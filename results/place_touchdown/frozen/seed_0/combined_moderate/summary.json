@@ -1,0 +1,39 @@
+{
+  "condition": "combined_moderate",
+  "seed": 0,
+  "source": "frozen",
+  "checkpoint": "results/place_mixed/mixed/seed_0/model.pt",
+  "checkpoint_sha256": "1bb79fc866bb102a37a28e212b2cf5397960f441e065907d5e29f0ee48627af6",
+  "mass_scale": 2.0,
+  "sliding_scale": 0.75,
+  "episodes": 100,
+  "successes": 64,
+  "success_rate": 0.64,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.03,
+  "drops_per_lift": 0.03,
+  "mean_max_lift_m": 0.06306350642166224,
+  "mean_max_hold_s": 2e-05,
+  "mean_max_hold_among_lifted_s": 2e-05,
+  "mean_return": 1.303560684425203,
+  "failure_reasons": {
+    "no_gripped_touchdown_at_target": 33,
+    "dropped_after_lift": 3
+  },
+  "transport_rate": 0.97,
+  "release_rate": 0.64,
+  "mean_goal_error_m": 0.004703133496479236,
+  "mean_stable_placement_s": 0.64,
+  "touchdown_rate": 0.64,
+  "transport_drop_rate": 0.03,
+  "transport_drops_per_lift": 0.03,
+  "transport_grip_loss_rate": 1.0,
+  "table_at_goal_rate": 0.97,
+  "early_open_rate": 0.33,
+  "median_goal_error_m": 0.002145599011237041,
+  "failure_stages": {
+    "touchdown": 33,
+    "transport": 3
+  }
+}

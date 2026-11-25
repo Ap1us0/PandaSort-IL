@@ -1,0 +1,13 @@
+method,seed,shape,expected_color,attempts,sorted,lifted,transport_drops,moved_before_attempt_over_10mm
+expert,,cube,red,30,23,30,0,0
+expert,,brick,blue,30,29,29,0,2
+expert,,cylinder,green,30,28,28,0,1
+mixed,0,cube,red,30,17,21,2,0
+mixed,0,brick,blue,30,6,14,1,0
+mixed,0,cylinder,green,30,24,26,0,0
+mixed,1,cube,red,30,7,26,18,1
+mixed,1,brick,blue,30,18,25,5,0
+mixed,1,cylinder,green,30,28,30,1,0
+mixed,2,cube,red,30,12,27,14,0
+mixed,2,brick,blue,30,20,23,2,0
+mixed,2,cylinder,green,30,29,30,0,0

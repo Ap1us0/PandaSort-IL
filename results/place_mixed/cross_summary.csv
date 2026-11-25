@@ -1,0 +1,37 @@
+source,condition,seed,reused,path,episodes,successes,bilateral_rate,lift_rate,transport_rate,touchdown_rate,release_rate,success_rate,transport_drop_rate,early_open_rate,failure_stages,median_goal_error_m
+nominal,nominal,0,True,results/place_robustness/test/seed_0/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.002179220515046449
+friction_50,nominal,0,False,results/place_mixed/cross/friction_50/seed_0/nominal,100,68,1.0,1.0,1.0,1.0,0.74,0.68,0.0,0.0,"{'settle': 6, 'release': 26}",0.007145596137772601
+mass_250,nominal,0,False,results/place_mixed/cross/mass_250/seed_0/nominal,100,99,1.0,1.0,1.0,1.0,1.0,0.99,0.0,0.0,{'settle': 1},0.0076532080950323465
+mixed,nominal,0,False,results/place_mixed/cross/mixed/seed_0/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.001357650317819046
+nominal,friction_50,0,True,results/place_robustness/test/seed_0/friction_50,100,34,1.0,1.0,0.86,0.34,0.34,0.34,0.14,0.52,"{'transport': 14, 'touchdown': 52}",0.0017974339609560415
+friction_50,friction_50,0,True,results/place_robustness/adapt/seed_0/friction_50,100,96,1.0,1.0,0.98,0.96,0.96,0.96,0.02,0.02,"{'transport': 2, 'touchdown': 2}",0.002174672256773794
+mass_250,friction_50,0,False,results/place_mixed/cross/mass_250/seed_0/friction_50,100,86,1.0,1.0,1.0,0.86,0.86,0.86,0.0,0.14,{'touchdown': 14},0.004584790659869811
+mixed,friction_50,0,False,results/place_mixed/cross/mixed/seed_0/friction_50,100,99,1.0,1.0,0.99,0.99,0.99,0.99,0.01,0.0,{'transport': 1},0.001588290355138364
+nominal,mass_250,0,True,results/place_robustness/test/seed_0/mass_250,100,0,1.0,0.03,0.01,0.0,0.0,0.0,0.02,0.01,"{'lift': 97, 'transport': 2, 'touchdown': 1}",0.009979593231779382
+friction_50,mass_250,0,False,results/place_mixed/cross/friction_50/seed_0/mass_250,100,83,1.0,0.97,0.95,0.83,0.83,0.83,0.02,0.12,"{'touchdown': 12, 'transport': 2, 'lift': 3}",0.0029163054694716674
+mass_250,mass_250,0,True,results/place_robustness/adapt/seed_0/mass_250,100,86,1.0,1.0,1.0,0.86,0.86,0.86,0.0,0.14,{'touchdown': 14},0.0021823321658417235
+mixed,mass_250,0,False,results/place_mixed/cross/mixed/seed_0/mass_250,100,88,1.0,1.0,0.99,0.88,0.88,0.88,0.01,0.11,"{'touchdown': 11, 'transport': 1}",0.001941894245010384
+nominal,nominal,1,True,results/place_robustness/test/seed_1/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.001973712704811309
+friction_50,nominal,1,False,results/place_mixed/cross/friction_50/seed_1/nominal,100,99,1.0,1.0,1.0,1.0,1.0,0.99,0.0,0.0,{'settle': 1},0.003373994920106225
+mass_250,nominal,1,False,results/place_mixed/cross/mass_250/seed_1/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.004488238756627802
+mixed,nominal,1,False,results/place_mixed/cross/mixed/seed_1/nominal,100,99,0.99,0.99,0.99,0.99,0.99,0.99,0.0,0.0,{'grip': 1},0.001487997971299942
+nominal,friction_50,1,True,results/place_robustness/test/seed_1/friction_50,100,23,1.0,0.74,0.58,0.23,0.23,0.23,0.16,0.35,"{'touchdown': 35, 'lift': 26, 'transport': 16}",0.0048119951964574305
+friction_50,friction_50,1,True,results/place_robustness/adapt/seed_1/friction_50,100,97,1.0,1.0,0.99,0.98,0.98,0.97,0.01,0.01,"{'transport': 1, 'touchdown': 1, 'settle': 1}",0.0018524304401503439
+mass_250,friction_50,1,False,results/place_mixed/cross/mass_250/seed_1/friction_50,100,84,1.0,1.0,1.0,0.84,0.84,0.84,0.0,0.16,{'touchdown': 16},0.0034011485141951037
+mixed,friction_50,1,False,results/place_mixed/cross/mixed/seed_1/friction_50,100,98,0.99,0.99,0.99,0.98,0.98,0.98,0.0,0.01,"{'grip': 1, 'touchdown': 1}",0.001576111483153834
+nominal,mass_250,1,True,results/place_robustness/test/seed_1/mass_250,100,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,{'lift': 100},0.015090259621531592
+friction_50,mass_250,1,False,results/place_mixed/cross/friction_50/seed_1/mass_250,100,30,1.0,1.0,0.55,0.3,0.3,0.3,0.45,0.25,"{'transport': 45, 'touchdown': 25}",0.018524679670446662
+mass_250,mass_250,1,True,results/place_robustness/adapt/seed_1/mass_250,100,91,1.0,1.0,1.0,0.91,0.91,0.91,0.0,0.09,{'touchdown': 9},0.0023826363309200783
+mixed,mass_250,1,False,results/place_mixed/cross/mixed/seed_1/mass_250,100,97,0.99,0.99,0.99,0.97,0.97,0.97,0.0,0.02,"{'touchdown': 2, 'grip': 1}",0.0019368820456663388
+nominal,nominal,2,True,results/place_robustness/test/seed_2/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.0018550548645236819
+friction_50,nominal,2,False,results/place_mixed/cross/friction_50/seed_2/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.0017828945049412682
+mass_250,nominal,2,False,results/place_mixed/cross/mass_250/seed_2/nominal,100,94,1.0,1.0,1.0,1.0,0.94,0.94,0.0,0.0,{'release': 6},0.00334278366275897
+mixed,nominal,2,False,results/place_mixed/cross/mixed/seed_2/nominal,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.0013003050414464204
+nominal,friction_50,2,True,results/place_robustness/test/seed_2/friction_50,100,54,1.0,1.0,0.97,0.54,0.54,0.54,0.03,0.43,"{'touchdown': 43, 'transport': 3}",0.002104676979170202
+friction_50,friction_50,2,True,results/place_robustness/adapt/seed_2/friction_50,100,96,1.0,1.0,0.96,0.96,0.96,0.96,0.04,0.0,{'transport': 4},0.001315440318555192
+mass_250,friction_50,2,False,results/place_mixed/cross/mass_250/seed_2/friction_50,100,100,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,{},0.0028763251494787513
+mixed,friction_50,2,False,results/place_mixed/cross/mixed/seed_2/friction_50,100,97,1.0,1.0,0.97,0.97,0.97,0.97,0.03,0.0,{'transport': 3},0.001559921998338086
+nominal,mass_250,2,True,results/place_robustness/test/seed_2/mass_250,100,86,1.0,1.0,1.0,0.86,0.86,0.86,0.0,0.14,{'touchdown': 14},0.0017575584794871217
+friction_50,mass_250,2,False,results/place_mixed/cross/friction_50/seed_2/mass_250,100,91,1.0,1.0,1.0,0.91,0.91,0.91,0.0,0.09,{'touchdown': 9},0.0009409467011153682
+mass_250,mass_250,2,True,results/place_robustness/adapt/seed_2/mass_250,100,99,1.0,1.0,1.0,0.99,0.99,0.99,0.0,0.01,{'touchdown': 1},0.002419132237191165
+mixed,mass_250,2,False,results/place_mixed/cross/mixed/seed_2/mass_250,100,91,1.0,1.0,1.0,0.91,0.91,0.91,0.0,0.09,{'touchdown': 9},0.001616434380199438

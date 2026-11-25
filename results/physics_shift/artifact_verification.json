@@ -1,0 +1,35 @@
+[
+  {
+    "seed": 0,
+    "demo_steps": 8000,
+    "identical_prefix_steps": 1049,
+    "replayed_episodes": [
+      0,
+      91
+    ],
+    "sac_total_new_steps": 7997,
+    "reproduced_early_stop_update": 1000
+  },
+  {
+    "seed": 1,
+    "demo_steps": 8000,
+    "identical_prefix_steps": 1047,
+    "replayed_episodes": [
+      0,
+      91
+    ],
+    "sac_total_new_steps": 7999,
+    "reproduced_early_stop_update": 1000
+  },
+  {
+    "seed": 2,
+    "demo_steps": 8000,
+    "identical_prefix_steps": 1049,
+    "replayed_episodes": [
+      0,
+      91
+    ],
+    "sac_total_new_steps": 7997,
+    "reproduced_early_stop_update": 1000
+  }
+]

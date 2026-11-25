@@ -1,0 +1,18 @@
+{
+  "episodes": 100,
+  "successes": 62,
+  "success_rate": 0.62,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.08,
+  "drops_per_lift": 0.08,
+  "mean_max_lift_m": 0.07433268053806269,
+  "mean_max_hold_s": 0.6921,
+  "mean_max_hold_among_lifted_s": 0.6921,
+  "mean_return": 5.03526252895076,
+  "failure_reasons": {
+    "unstable_hold": 30,
+    "dropped_after_lift": 8
+  },
+  "closed_near_rate": 1.0
+}

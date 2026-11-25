@@ -1,0 +1,38 @@
+[
+  {
+    "seed": 0,
+    "method": "bc",
+    "file": "results/contact_trigger/seed_0/bc/model.pt",
+    "sha256": "2d66ab341974d44a2dde72acf7d4c70173ec9727a0b8e64cf88141ad9d8593aa"
+  },
+  {
+    "seed": 0,
+    "method": "bc_sac",
+    "file": "results/sac_ablation/seed_0/bc_regularized/model.zip",
+    "sha256": "7e7ed026e17a9d23ab9f795f1fbeea052c400d70de68aa3e882eab6c5404385e"
+  },
+  {
+    "seed": 1,
+    "method": "bc",
+    "file": "results/contact_trigger/seed_1/bc/model.pt",
+    "sha256": "8141a312df071172e37bbc28e7befc2865ce240a35538fb8c7c86de09b002b43"
+  },
+  {
+    "seed": 1,
+    "method": "bc_sac",
+    "file": "results/sac_ablation/seed_1/bc_regularized/model.zip",
+    "sha256": "61ba8561ca68c2d763a7d177a7ee4c9939a98f9b0ed81a18baeea62e449f0d1f"
+  },
+  {
+    "seed": 2,
+    "method": "bc",
+    "file": "results/contact_trigger/seed_2/bc/model.pt",
+    "sha256": "25e5a2134972227c1a2be1b24e31c95a96442b6f26680d153b30f98460f0f1e3"
+  },
+  {
+    "seed": 2,
+    "method": "bc_sac",
+    "file": "results/sac_ablation/seed_2/bc_regularized/model.zip",
+    "sha256": "5134424edf0a24826ebad6b8ce69d15de0e18dae7225bb7827b6ee4eb769b918"
+  }
+]

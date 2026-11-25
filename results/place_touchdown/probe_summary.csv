@@ -1,0 +1,7 @@
+seed,intervention,initial_failures,initial_success_controls,rescued_failures,regressed_successes,rescued_touchdowns,failed_after_probe
+0,hold_grip,42,12,38,0,38,{'transport': 4}
+0,slow_descent,42,12,8,7,8,"{'touchdown': 37, 'transport': 4}"
+1,hold_grip,8,12,3,0,3,"{'transport': 3, 'touchdown': 2}"
+1,slow_descent,8,12,2,1,2,"{'transport': 3, 'touchdown': 4}"
+2,hold_grip,30,12,11,0,11,"{'touchdown': 16, 'transport': 3}"
+2,slow_descent,30,12,4,6,4,"{'touchdown': 29, 'transport': 3}"

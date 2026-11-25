@@ -1,0 +1,39 @@
+{
+  "condition": "friction_50",
+  "seed": 1,
+  "teacher_speed": 1.0,
+  "mass_scale": 1.0,
+  "sliding_scale": 0.5,
+  "mass_kg": 0.075,
+  "sliding_coefficient": 0.7,
+  "episodes": 25,
+  "successes": 15,
+  "success_rate": 0.6,
+  "bilateral_rate": 1.0,
+  "lift_rate": 0.84,
+  "drop_rate": 0.24,
+  "drops_per_lift": 0.2857142857142857,
+  "mean_max_lift_m": 0.05290893901312991,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 0.910826512097592,
+  "failure_reasons": {
+    "dropped_after_lift": 6,
+    "grasp_without_lift": 4
+  },
+  "transport_rate": 0.6,
+  "release_rate": 0.6,
+  "mean_goal_error_m": 0.006184074815167575,
+  "mean_stable_placement_s": 0.6,
+  "touchdown_rate": 0.6,
+  "transport_drop_rate": 0.24,
+  "transport_drops_per_lift": 0.2857142857142857,
+  "transport_grip_loss_rate": 0.84,
+  "table_at_goal_rate": 0.8,
+  "early_open_rate": 0.0,
+  "median_goal_error_m": 0.0023567561281156385,
+  "failure_stages": {
+    "transport": 6,
+    "lift": 4
+  }
+}

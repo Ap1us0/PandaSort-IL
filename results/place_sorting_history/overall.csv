@@ -1,0 +1,6 @@
+method,scenes,all_sorted,all_sorted_pct,items,sorted_items,sorted_items_pct,cube_sorted,cube_lifted,cube_transport_drops,brick_sorted,cylinder_sorted
+force_in_transport,90,38,42.2,270,204,75.6,56,86,20,66,82
+aligned_r1,90,67,74.4,270,244,90.4,75,86,6,87,82
+dagger,90,70,77.8,270,248,91.9,74,86,11,87,87
+history3_ema,90,74,82.2,270,253,93.7,81,88,6,90,82
+aligned_expert,30,25,83.3,90,83,92.2,28,30,1,30,25

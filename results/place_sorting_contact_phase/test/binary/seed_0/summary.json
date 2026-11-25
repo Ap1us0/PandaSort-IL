@@ -1,0 +1,16 @@
+{
+  "method": "binary",
+  "seed": 0,
+  "checkpoint_sha256": "b0bb9bff331c84a6c7c780e4a4da86304ab6882bee3d60b57351a5782d44acac",
+  "scenes": 30,
+  "all_sorted": 5,
+  "items": 90,
+  "sorted_items": 60,
+  "wrong_color_items": 0,
+  "homing_failures": 0,
+  "per_shape": {
+    "cube": 18,
+    "brick": 18,
+    "cylinder": 24
+  }
+}

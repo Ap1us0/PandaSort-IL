@@ -1,0 +1,15 @@
+{
+  "arm": "dr_only",
+  "condition": "unseen_extrap_fric57",
+  "scenes": 90,
+  "all_sorted": 22,
+  "all_sorted_pct": 24.4,
+  "per_seed": "8/10/4",
+  "sorted_items": 191,
+  "sorted_items_pct": 70.7,
+  "cube_sorted": 24,
+  "cube_lifted": 87,
+  "cube_drops": 48,
+  "brick_sorted": 82,
+  "cylinder_sorted": 85
+}

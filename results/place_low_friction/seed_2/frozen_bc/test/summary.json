@@ -1,0 +1,42 @@
+{
+  "seed": 2,
+  "method": "frozen_bc",
+  "condition": "friction_70_mass_150",
+  "mass_scale": 2.0,
+  "sliding_scale": 0.7,
+  "mass_kg": 0.15,
+  "sliding_coefficient": 0.9799999999999999,
+  "episodes": 100,
+  "successes": 61,
+  "success_rate": 0.61,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.04,
+  "drops_per_lift": 0.04,
+  "mean_max_lift_m": 0.06607269570641998,
+  "mean_max_hold_s": 0.0,
+  "mean_max_hold_among_lifted_s": 0.0,
+  "mean_return": 1.13692001218807,
+  "failure_reasons": {
+    "dropped_after_lift": 4,
+    "no_gripped_touchdown_at_target": 35
+  },
+  "transport_rate": 0.96,
+  "release_rate": 0.61,
+  "mean_goal_error_m": 0.006184350144145768,
+  "mean_stable_placement_s": 0.61,
+  "touchdown_rate": 0.61,
+  "transport_drop_rate": 0.04,
+  "transport_drops_per_lift": 0.04,
+  "transport_grip_loss_rate": 1.0,
+  "table_at_goal_rate": 0.98,
+  "early_open_rate": 0.35,
+  "median_goal_error_m": 0.003283729743851953,
+  "failure_stages": {
+    "transport": 4,
+    "touchdown": 35
+  },
+  "strict_successes": 61,
+  "stable_placement_successes": 96,
+  "stable_without_gripped_touchdown": 35
+}

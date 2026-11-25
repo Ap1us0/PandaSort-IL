@@ -1,0 +1,8 @@
+{
+  "profile": "adapted",
+  "seed": 2,
+  "episodes": 100,
+  "strict_successes": 90,
+  "stable_placement_successes": 100,
+  "stable_without_gripped_touchdown": 10
+}

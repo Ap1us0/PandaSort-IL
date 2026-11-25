@@ -1,0 +1,32 @@
+[
+  {
+    "profile": "frozen",
+    "scene": 1480000,
+    "training_seed": 0,
+    "steps": 240,
+    "goal_error_mm": 1.8309470911572108,
+    "strict_success": false,
+    "goal_and_stability_success": true,
+    "goal_stability_s": 6.194,
+    "gripped_touchdown_s": null,
+    "goal_table_support_s": 5.665999999999598,
+    "fully_open_no_contact_s": 5.7619999999995875,
+    "no_finger_contact_s": 5.6619999999995985,
+    "cube_height_above_rest_when_fingers_separated_mm": 3.514257522157338
+  },
+  {
+    "profile": "adapted",
+    "scene": 1480000,
+    "training_seed": 0,
+    "steps": 141,
+    "goal_error_mm": 2.0379626335812935,
+    "strict_success": true,
+    "goal_and_stability_success": true,
+    "goal_stability_s": 1.0,
+    "gripped_touchdown_s": 5.877999999999575,
+    "goal_table_support_s": 5.847999999999578,
+    "fully_open_no_contact_s": 6.037999999999557,
+    "no_finger_contact_s": 5.8519999999995775,
+    "cube_height_above_rest_when_fingers_separated_mm": 5.912700648788515
+  }
+]

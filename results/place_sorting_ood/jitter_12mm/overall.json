@@ -1,0 +1,14 @@
+{
+  "condition": "jitter_12mm",
+  "scenes": 90,
+  "all_sorted": 64,
+  "all_sorted_pct": 71.1,
+  "per_seed": "22/20/22",
+  "sorted_items": 241,
+  "sorted_items_pct": 89.3,
+  "cube_sorted": 82,
+  "brick_sorted": 82,
+  "cylinder_sorted": 77,
+  "cube_drops": 3,
+  "cube_lifted": 88
+}

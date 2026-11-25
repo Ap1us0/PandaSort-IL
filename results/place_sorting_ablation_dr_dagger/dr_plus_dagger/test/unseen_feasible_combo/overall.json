@@ -1,0 +1,15 @@
+{
+  "arm": "dr_plus_dagger",
+  "condition": "unseen_feasible_combo",
+  "scenes": 90,
+  "all_sorted": 48,
+  "all_sorted_pct": 53.3,
+  "per_seed": "17/15/16",
+  "sorted_items": 225,
+  "sorted_items_pct": 83.3,
+  "cube_sorted": 53,
+  "cube_lifted": 88,
+  "cube_drops": 14,
+  "brick_sorted": 85,
+  "cylinder_sorted": 87
+}

@@ -1,0 +1,13 @@
+seed,adapted,frozen,failure_to_success,success_to_failure
+seed_0,bc,frozen_bc,36,5
+seed_0,bc_prefix,frozen_bc,29,6
+seed_0,bc_prefix_selected,frozen_bc,37,4
+seed_0,bc_sac,frozen_bc_sac,62,2
+seed_1,bc,frozen_bc,4,6
+seed_1,bc_prefix,frozen_bc,0,96
+seed_1,bc_prefix_selected,frozen_bc,4,4
+seed_1,bc_sac,frozen_bc_sac,54,0
+seed_2,bc,frozen_bc,43,2
+seed_2,bc_prefix,frozen_bc,33,25
+seed_2,bc_prefix_selected,frozen_bc,30,13
+seed_2,bc_sac,frozen_bc_sac,63,6

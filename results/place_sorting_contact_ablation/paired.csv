@@ -1,0 +1,16 @@
+reference,method,seed,whole_scene_gains,whole_scene_losses,cube_drops_avoided,cube_drops_added
+binary,force,0,4,2,6,1
+binary,force,1,1,2,2,1
+binary,force,2,1,4,3,2
+binary,slip,0,6,0,5,2
+binary,slip,1,1,0,3,5
+binary,slip,2,1,2,3,5
+binary,transport,0,7,2,6,2
+binary,transport,1,2,4,1,3
+binary,transport,2,1,3,3,3
+binary,continuous,0,5,3,4,3
+binary,continuous,1,1,4,3,4
+binary,continuous,2,2,3,3,3
+continuous,transport,0,6,3,6,3
+continuous,transport,1,4,3,4,5
+continuous,transport,2,1,2,1,1

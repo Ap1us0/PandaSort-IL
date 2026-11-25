@@ -1,0 +1,14 @@
+{
+  "family": "history3_ema",
+  "condition": "unseen_feasible_combo",
+  "seed": 2,
+  "checkpoint_sha256": "cb6490473ea5176359a40d5b9fc1b49a3efd313cb01e1ead7806fc786d0abeb0",
+  "scenes": 30,
+  "all_sorted": 11,
+  "sorted_items": 62,
+  "cube_sorted": 12,
+  "cube_lifted": 29,
+  "cube_drops": 14,
+  "brick_sorted": 26,
+  "cylinder_sorted": 24
+}

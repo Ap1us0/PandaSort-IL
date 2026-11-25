@@ -1,0 +1,74 @@
+[
+  {
+    "seed": 0,
+    "method": "critic_warmup",
+    "checkpoint": "results/sac_ablation/seed_0/critic_warmup/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 0,
+    "deterministic_action_rmse_on_probes": 0.0
+  },
+  {
+    "seed": 0,
+    "method": "low_exploration",
+    "checkpoint": "results/sac_ablation/seed_0/low_exploration/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.2550080418586731
+  },
+  {
+    "seed": 0,
+    "method": "bc_regularized",
+    "checkpoint": "results/sac_ablation/seed_0/bc_regularized/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.44348645210266113
+  },
+  {
+    "seed": 1,
+    "method": "critic_warmup",
+    "checkpoint": "results/sac_ablation/seed_1/critic_warmup/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 0,
+    "deterministic_action_rmse_on_probes": 0.0
+  },
+  {
+    "seed": 1,
+    "method": "low_exploration",
+    "checkpoint": "results/sac_ablation/seed_1/low_exploration/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.7231850624084473
+  },
+  {
+    "seed": 1,
+    "method": "bc_regularized",
+    "checkpoint": "results/sac_ablation/seed_1/bc_regularized/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.7444049715995789
+  },
+  {
+    "seed": 2,
+    "method": "critic_warmup",
+    "checkpoint": "results/sac_ablation/seed_2/critic_warmup/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 0,
+    "deterministic_action_rmse_on_probes": 0.0
+  },
+  {
+    "seed": 2,
+    "method": "low_exploration",
+    "checkpoint": "results/sac_ablation/seed_2/low_exploration/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.5358713269233704
+  },
+  {
+    "seed": 2,
+    "method": "bc_regularized",
+    "checkpoint": "results/sac_ablation/seed_2/bc_regularized/model_02000.zip",
+    "critic_updates": 744,
+    "actor_updates": 744,
+    "deterministic_action_rmse_on_probes": 0.8245043754577637
+  }
+]

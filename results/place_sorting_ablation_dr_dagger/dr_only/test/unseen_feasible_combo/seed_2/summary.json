@@ -1,0 +1,14 @@
+{
+  "arm": "dr_only",
+  "condition": "unseen_feasible_combo",
+  "seed": 2,
+  "checkpoint_sha256": "55cfcc7d3eec44d01f3c4f10313c007ef3a2c7c9925b39ce5e2366a662b5258e",
+  "scenes": 30,
+  "all_sorted": 19,
+  "sorted_items": 78,
+  "cube_sorted": 20,
+  "cube_lifted": 29,
+  "cube_drops": 4,
+  "brick_sorted": 28,
+  "cylinder_sorted": 30
+}

@@ -1,0 +1,16 @@
+method,seed,scenes,all_sorted,sorted_items,cube_sorted,cube_lifted,cube_transport_drops
+binary,0,30,13,70,19,29,8
+binary,1,30,12,68,19,30,8
+binary,2,30,9,63,17,28,7
+force,0,30,9,62,17,28,8
+force,1,30,11,63,15,29,12
+force,2,30,12,65,21,29,4
+slip,0,30,11,64,17,27,7
+slip,1,30,14,68,16,30,13
+slip,2,30,9,62,18,30,8
+force_in_transport,0,30,13,68,18,29,7
+force_in_transport,1,30,12,69,18,30,8
+force_in_transport,2,30,13,67,20,27,5
+binary_then_force_then_slip,0,30,8,64,15,27,10
+binary_then_force_then_slip,1,30,13,66,15,29,11
+binary_then_force_then_slip,2,30,9,65,19,27,6

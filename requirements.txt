@@ -1,0 +1,9 @@
+gymnasium==1.2.3
+mujoco==3.16.0
+numpy==2.2.6
+torch==2.14.1
+stable-baselines3==2.7.1
+matplotlib==3.10.9
+imageio-ffmpeg==0.6.0
+cloudpickle==3.1.2
+farama-notifications==0.0.4

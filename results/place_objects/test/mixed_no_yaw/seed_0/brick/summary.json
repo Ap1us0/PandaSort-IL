@@ -1,0 +1,22 @@
+{
+  "method": "mixed_no_yaw",
+  "seed": 0,
+  "checkpoint": "results/place_objects/training/seed_0/model.pt",
+  "checkpoint_sha256": "5a4483f6d9fa591bbba10c1e5be169ae3df9706a4a44940d0fb6be388540a453",
+  "shape": "brick",
+  "random_initial_yaw": true,
+  "wrist_yaw_action": true,
+  "episodes": 12,
+  "stable": 2,
+  "strict": 2,
+  "gripped": 12,
+  "lifted": 3,
+  "transported": 3,
+  "transport_drops": 0,
+  "failure_stages": {
+    "lift": 9,
+    "settle": 1
+  },
+  "mass_g": 150.0,
+  "finger_sliding_coefficient": 0.9799999999999999
+}

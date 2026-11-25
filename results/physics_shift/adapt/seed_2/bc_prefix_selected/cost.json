@@ -1,0 +1,7 @@
+{
+  "initial_checkpoint": "results/contact_trigger/seed_2/bc/model.pt",
+  "new_demo_steps": 1049,
+  "online_steps": 0,
+  "optimizer_updates": 1000,
+  "total_new_steps": 1049
+}

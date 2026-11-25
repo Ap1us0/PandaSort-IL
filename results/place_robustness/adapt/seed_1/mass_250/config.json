@@ -1,0 +1,12 @@
+{
+  "condition": "mass_250",
+  "seed": 1,
+  "new_demonstration_steps": 1745,
+  "new_demonstration_episodes": 12,
+  "successful_demonstrations": 12,
+  "training_updates": 3000,
+  "selected_updates": 750,
+  "selected_screen_successes": 12,
+  "original_checkpoint": "results/pick_place/seed_1/model.pt",
+  "original_checkpoint_sha256": "668d404abf431012bc36881eebad3baed9ef0ecd5a9a1fe6409beef0859ef8bf"
+}

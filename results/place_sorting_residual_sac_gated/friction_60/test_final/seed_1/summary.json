@@ -1,0 +1,16 @@
+{
+  "method": "gated_residual_sac",
+  "condition": "friction_60",
+  "seed": 1,
+  "checkpoint_mode": "final",
+  "evaluated_checkpoint": "final_step_8000",
+  "selected_step": 0,
+  "scenes": 30,
+  "all_sorted": 13,
+  "sorted_items": 69,
+  "cube_sorted": 14,
+  "cube_lifted": 29,
+  "cube_transport_drops": 13,
+  "brick_sorted": 29,
+  "cylinder_sorted": 26
+}

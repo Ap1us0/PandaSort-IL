@@ -1,0 +1,22 @@
+{
+  "condition": "friction_50",
+  "mass_scale": 1.0,
+  "sliding_scale": 0.5,
+  "cube_mass_kg": 0.075,
+  "cube_sliding_coefficient": 0.7,
+  "episodes": 100,
+  "successes": 4,
+  "success_rate": 0.04,
+  "bilateral_rate": 1.0,
+  "lift_rate": 1.0,
+  "drop_rate": 0.0,
+  "drops_per_lift": 0.0,
+  "mean_max_lift_m": 0.08247157291372194,
+  "mean_max_hold_s": 0.27422,
+  "mean_max_hold_among_lifted_s": 0.27422,
+  "mean_return": -0.16869470378449358,
+  "failure_reasons": {
+    "unstable_hold": 96
+  },
+  "closed_near_rate": 1.0
+}

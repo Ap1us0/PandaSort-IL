@@ -1,0 +1,10 @@
+reference,seed,cube_drop_avoided,cube_drop_added,avoided_and_cube_sorted,avoided_but_no_lift,added_from_previously_unlifted,all_three_gains,all_three_losses
+binary,0,4,2,3,0,1,7,0
+force,0,6,2,5,0,1,8,1
+slip,0,5,1,4,1,0,5,1
+binary,1,3,6,3,0,1,5,2
+force,1,3,5,3,0,0,3,3
+slip,1,3,2,3,0,0,3,1
+binary,2,4,3,2,0,0,1,6
+force,2,3,4,3,0,1,0,4
+slip,2,3,2,2,0,0,0,3

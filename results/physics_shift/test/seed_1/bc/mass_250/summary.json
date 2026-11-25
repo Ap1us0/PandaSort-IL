@@ -1,0 +1,23 @@
+{
+  "condition": "mass_250",
+  "mass_scale": 2.5,
+  "sliding_scale": 1.0,
+  "cube_mass_kg": 0.1875,
+  "cube_sliding_coefficient": 1.4,
+  "episodes": 100,
+  "successes": 44,
+  "success_rate": 0.44,
+  "bilateral_rate": 1.0,
+  "lift_rate": 0.71,
+  "drop_rate": 0.0,
+  "drops_per_lift": 0.0,
+  "mean_max_lift_m": 0.051670559252120656,
+  "mean_max_hold_s": 0.64306,
+  "mean_max_hold_among_lifted_s": 0.9057183098591549,
+  "mean_return": 3.3283725259053885,
+  "failure_reasons": {
+    "unstable_hold": 27,
+    "grasp_without_lift": 29
+  },
+  "closed_near_rate": 1.0
+}
